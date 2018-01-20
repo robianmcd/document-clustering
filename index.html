@@ -110,10 +110,11 @@
       data.forEach(function(d) {
         d.x = x(d[xVar]);
         d.y = y(d[yVar]);
-        let relOpacity = Math.max(1 - d.distanceFromCenter, 0.2);
+        let relOpacity = Math.max(d.density, 0.2);
         let alphaHex = Math.round((relOpacity * 256) - 1).toString(16);
         alphaHex.length === 1 && (alphaHex = '0' + alphaHex)
         d.color = color(d.cluster) + alphaHex;
+        //d.color = color(d.group) + alphaHex;
         d.radius = getRadius(d);
       });
 
