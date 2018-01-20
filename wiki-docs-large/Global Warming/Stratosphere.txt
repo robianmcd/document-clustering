@@ -1,0 +1,54 @@
+The stratosphere () is the second major layer of Earth's atmosphere, just above the troposphere, and below the mesosphere. About 20% of the atmosphere's mass is contained in the stratosphere. The stratosphere is stratified in temperature, with warmer layers higher and cooler layers closer to the Earth. The increase of temperature with altitude is a result of the absorption of the Sun's ultraviolet radiation by the ozone layer. This is in contrast to the troposphere, near the Earth's surface, where temperature decreases with altitude. The border between the troposphere and stratosphere, the tropopause, marks where this temperature inversion begins. Near the equator, the stratosphere starts at 18 km (59,000 ft; 11 mi); at mid latitudes, it starts at 1013 km (33,00043,000 ft; 6.28.1 mi) and ends at 50 km (160,000 ft; 31 mi); at the poles, it starts at about 8 km (26,000 ft; 5.0 mi). Temperatures vary within the stratosphere with the seasons, in particular with the polar night (winter). The greatest variation of temperature takes place over the poles in the lower stratosphere; variations at lower latitudes and higher altitudes are smaller.
+
+
+== Ozone and temperature ==
+The mechanism describing the formation of the ozone layer was described by British mathematician Sydney Chapman in 1930. Molecular oxygen absorbs high energy sunlight in the UV-C region, at wavelengths shorter than about 240 nm. The oxygen atoms produced combine with molecular oxygen to form ozone. Ozone in turn is photolysed much more rapidly than molecular oxygen as it has a stronger absorption that occurs at longer wavelengths, where the solar emission is more intense. Ozone (O3) photolysis produces O and O2. The oxygen atom product combines with atmospheric molecular oxygen to reform O3, releasing heat. The rapid photolysis and reformation of ozone heats the stratosphere resulting in a temperature inversion. This increase of temperature with altitude is characteristic of the stratosphere; its resistance to vertical mixing means that it is stratified. Within the stratosphere temperatures increase with altitude (see temperature inversion); the top of the stratosphere has a temperature of about 270 K (3C or 26.6F). This vertical stratification, with warmer layers above and cooler layers below, makes the stratosphere dynamically stable: there is no regular convection and associated turbulence in this part of the atmosphere. However, exceptionally energetic convection processes, such as volcanic eruption columns and overshooting tops in severe supercell thunderstorms, may carry convection into the stratosphere on a very local and temporary basis. Overall the attenuation of solar UV at wavelengths that damage DNA by the ozone layer allows life to exist on the surface of the planet outside of the ocean. All air entering the stratosphere must pass through the tropopause, the temperature minimum that divides the troposphere and stratosphere. The rising air is literally freeze dried; the stratosphere is a very dry place. The top of the stratosphere is called the stratopause, above which the temperature decreases with height.
+Sydney Chapman gave a correct description of the source of stratospheric ozone and its ability to generate heat within the stratosphere; he also wrote that ozone may be destroyed by reacting with atomic oxygen, making two molecules of molecular oxygen. We now know that there are additional ozone loss mechanisms, and that these mechanisms are catalytic meaning that a small amount of the catalyst can destroy a great number of ozone molecules. The first is due to the reaction of hydroxyl radicals OH with ozone. OH is formed by the reaction of electronically excited oxygen atoms produced by ozone photolysis, with water vapor. While the stratosphere is dry, additional water vapor is produced in situ by the photochemical oxidation of methane (CH4). The HO2 radical produced by the reaction of OH with O3 is recycled to OH by reaction with oxygen atoms or ozone. In addition, solar proton events can significantly effect ozone levels via Radiolysis with the subsequent formation of OH . Laughing gas or Nitrous oxide (N2O) is produced by biological activity at the surface and is oxidised to NO in the stratosphere; the so-called NOx radical cycles also deplete stratospheric ozone. Finally, chlorofluorocarbon molecules are photolysed in the stratosphere releasing chlorine atoms that react with ozone giving ClO and O2. The chlorine atoms are recycled when ClO reacts with O in the upper stratosphere, or when ClO reacts with itself in the chemistry of the Antarctic ozone hole. Paul J. Crutzen, Mario J. Molina and F. Sherwood Rowland were awarded the Nobel Prize in Chemistry in 1995 for their work describing the formation and decomposition of stratospheric ozone.
+
+
+== Aircraft flight ==
+Commercial airliners typically cruise at altitudes of 912 km (30,00039,000 ft) which is in the lower reaches of the stratosphere in temperate latitudes. This optimizes fuel efficiency, mostly due to the low temperatures encountered near the tropopause and low air density, reducing parasitic drag on the airframe. Stated another way, it allows the airliner to fly faster for the same amount of drag. It also allows them to stay above the turbulent weather of the troposphere.
+The Concorde aircraft cruised at mach 2 at about 18,000 m (59,000 ft), and the SR-71 cruised at mach 3 at 26,000 m (85,000 ft), all within the stratosphere.
+Because the temperature in the tropopause and lower stratosphere is largely constant with increasing altitude, very little convection and its resultant turbulence occurs there. Most turbulence at this altitude is caused by variations in the jet stream and other local wind shears, although areas of significant convective activity (thunderstorms) in the troposphere below may produce turbulence as a result of convective overshoot.
+On October 24, 2014, Alan Eustace became the record holder for reaching the altitude record for a manned balloon at 135,890 ft (41,419 m). Dr Eustace also broke the world records for vertical speed reached with a peak velocity of 1,321 km/h (822 mph) and total freefall distance of 123,414 ft (37,617 m)  lasting four minutes and 27 seconds.
+
+
+== Circulation and mixing ==
+The stratosphere is a region of intense interactions among radiative, dynamical, and chemical processes, in which the horizontal mixing of gaseous components proceeds much more rapidly than does vertical mixing. The overall circulation of the stratosphere is termed as Brewer-Dobson circulation, which is a single celled circulation, spanning from the tropics up to the poles, consisting of the tropical upwelling of air from the tropical troposphere and the extra-tropical downwelling of air. Stratospheric Circulation is a pre-dominantly wave-driven circulation in that the tropical upwelling is induced by the wave force by the westward propagating Rossby Waves, in a phenomenon called Rossby-Wave pumping.
+An interesting feature of stratospheric circulation is the QBO in the tropical latitudes, which is driven by gravity waves that are convectively generated in the troposphere. The QBO induces a secondary circulation that is important for the global stratospheric transport of tracers, such as ozone or water vapor.
+Another large-scale feature that significantly influences Stratospheric Circulation is the breaking planetary waves resulting in intense quasi-horizontal mixing in the midlatitudes. This breaking is much more pronounced in the winter hemisphere where this region is called the surf zone. This breaking is caused due to a highly non-linear interaction between the vertically propagating planetary waves and the isolated high potential vorticity region known as Polar Vortex. The resultant breaking causes large scale mixing of air and other trace gases throughout the midlatitude surf zone. The timescale of this rapid mixing is much smaller than the much slower timescales of upwelling in the tropics and downwelling in the extratropics.
+During northern hemispheric winters, sudden stratospheric warmings, caused by the absorption of Rossby waves in the stratosphere, can be observed in approximately half of winters when easterly winds develop in the stratosphere. These events often precede unusual winter weather  and may even be responsible for the cold European winters of the 1960s.
+Stratospheric warming of the polar vortex results in its weakening. When the vortex is strong, it keeps the cold, high pressure air masses contained in the arctic; when the vortex weakens, air masses move equatorward, and results in rapid changes of weather in the mid latitudes.
+
+
+== Life ==
+
+
+=== Bacteria ===
+Bacterial life survives in the stratosphere, making it a part of the biosphere. In 2001 an Indian experiment, involving a high-altitude balloon, was carried out at a height of 41 kilometres and a sample of dust was collected with bacterial material inside.
+
+
+=== Birds ===
+Some bird species have been reported to fly at the lower levels of the stratosphere. On November 29, 1973, a Rppell's vulture (Gyps rueppelli) was ingested into a jet engine 11,278 m (37,000 ft) above the Ivory Coast, and bar-headed geese (Anser indicus) reportedly overfly Mount Everest's summit, which is 8,848 m (29,029 ft).
+
+
+== Discovery ==
+Lon Teisserenc de Bort from France and Richard Assmann from Germany, in separate publications and following years of observations, announced the discovery of an isothermal layer at around 1114 km, which is the base of the lower stratosphere. This was based on temperature profiles from unmanned instrumented balloons.
+
+
+== See also ==
+
+Le Grand Saut
+Lockheed U-2
+Paris Gun (projectile was the first artificial object to reach stratosphere)
+Red Bull Stratos
+RQ-4 Global Hawk
+Service ceiling
+
+
+== References ==
+
+
+== External links ==
+ The dictionary definition of stratosphere at Wiktionary
+Current map of global winds and temperatures at the 10 hPa level.

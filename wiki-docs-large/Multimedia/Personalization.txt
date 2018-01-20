@@ -1,0 +1,86 @@
+Personalization, broadly known as customization, consists of tailoring a service or a product to accommodate specific individuals, sometimes tied to groups or segments of individuals. A wide variety of organizations use personalization to improve customer satisfaction, digital sales conversion, marketing results, branding, and improved website metrics as well as for advertising. Personalization is a key element in social media and recommender systems.
+
+
+== Web pages ==
+Web pages can be personalized based on the characteristics (interests, social category, context, etc.), actions (click on button, open a link, etc.), intent (make a purchase, check status of an entity), or any other parameter that can be identified and associated with an individual, therefore providing them with a tailored user experience. Note that the experience is rarely simply accommodation of the user but a relationship between the user and the desires of the site designers in driving specific actions to achieve objectives (e.g. Increase sales conversion on a page). The term customization is often used when the site only uses explicit data such as product ratings or user preferences.
+Technically, web personalization can be achieved by associating a visitor segment with a predefined action. Customizing the user experience based on behavioural, contextual and technical data is proven to have a positive impact on conversion rate optimization efforts. Associated actions can range from changing the content of a webpage, presenting a modal display, presenting interstitials, triggering a personalized email or even automating a phone call to the user.
+According to a 2014 study from research firm Econsultancy, less than 30% of e-commerce websites have invested in the field of web personalization. However, many companies now offer services for web personalization as well as web and email recommendation systems that are based on personalization or anonymously-collected user behaviours.
+There are many categories of web personalization including
+Behavioral
+Contextual
+Technical
+Historic data
+Collaboratively filtered
+There are several camps in defining and executing web personalization. A few broad methods for web personalization may include:
+Implicit
+Explicit
+Hybrid
+With implicit personalization, the web personalization is performed based on the different categories mentioned above. It can also be learned from direct interactions with the user based on implicit data, such as items purchased or pages viewed. With explicit personalization, the web page (or information system) is changed by the user using the features provided by the system. Hybrid personalization combines the above two approaches to leverage the best of both worlds.
+Web personalization is can be linked to the notion of Adaptive hypermedia (AH). The main difference is that the former would usually work on what is considered an "open corpus hypermedia," whilst the latter would traditionally work on "closed corpus hypermedia." However, recent research directions in the AH domain take both closed and open corpus into account. Thus, the two fields are closely inter-related.
+Personalization is also being considered for use in less overtly commercial applications to improve the user experience online. Internet activist Eli Pariser has documented that search engines like Google and Yahoo! News give different results to different people (even when logged out). He also points out social media site Facebook changes user's friend feeds based on what it thinks they want to see. Pariser warns that these algorithms can create a "filter bubble" that prevents people from encountering a diversity of viewpoints beyond their own, or which only presents facts which confirm their existing views.
+On an intranet or B2E Enterprise Web portals, personalization is often based on user attributes such as department, functional area, or role. The term "customization" in this context refers to the ability of users to modify the page layout or specify what content should be displayed.
+
+
+== Digital media ==
+Another aspect of personalization is the increasing prevalence of open data on the Web. Many companies make their data available on the Web via APIs, web services, and open data standards. One such example is Ordnance Survey Open Data. Data made available in this way is structured to allow it to be inter-connected and re-used by third parties.
+Data available from a user's personal social graph can be accessed by third-party application software to be suited to fit the personalized web page or information appliance.
+Current open data standards on the Web include:
+Attention Profiling Mark-up Language (APML)
+DataPortability
+OpenID
+OpenSocial
+
+
+== Mobile phones ==
+Over time mobile phones have seen an increased emphasis placed on user personalization. Far from the black and white screens and monophonic ringtones of the past, phones now offer interactive wallpapers and MP3 TruTones. In the UK and Asia, WeeMees have become popular. WeeMees are three-dimensional characters that are used as wallpaper and respond to the tendencies of the user. Video Graphics Array (VGA) picture quality allows people to change their background with ease without sacrificing quality. All of these services are downloaded through the provider with the goal to make the user feel connected to the phone.
+
+
+== Print media ==
+
+In print media, ranging from magazines to promotional publications, personalization uses databases of individual recipients' information. Not only does the written document address itself by name to the reader, but the advertising is targeted to the recipient's demographics or interests using fields within the database, such as "first name", "last name", "company", etc.
+The term "personalization" should not be confused with variable data, which is a much more granular method of marketing that leverages both images and text with the medium, not just fields within a database. Although personalized children's books are created by companies who are using and leveraging all the strengths of variable data printing (VDP). This allows for full image and text variability within a printed book. With the advent of online 3D printing services such as Shapeways and Ponoko we are seeing personalization enter into the realms of product design.
+
+
+== Promotional merchandise ==
+Promotional items (mugs, T-shirts, keychains, balls etc.) are regularly personalized. Personalized children's storybookswherein the child becomes the protagonist, with the name and image of the child personalizedare also popular. Personalized CDs for children also exist. With the advent of digital printing, personalized calendars that start in any month, birthday cards, cards, e-cards, posters and photo books can also be obtained.
+
+
+== 3D printing ==
+3D printing is a production method that allows to create unique and personalized items on a global scale. Personalized apparel and accessories, such as jewellery, are increasing in popularity. This kind of customization is also relevant in other areas like Consumer Electronics and Retail. By combining 3D printing with complex software a product can easily be customized by an end-user.
+
+
+== Mass personalization ==
+Mass personalization is defined as custom tailoring by a company in accordance with its end users tastes and preferences. From collaborative engineering perspective, mass customization can be viewed as collaborative efforts between customers and manufacturers, who have different sets of priorities and need to jointly search for solutions that best match customers' individual specific needs with manufacturers' customization capabilities. The main difference between mass customization and mass personalization is that customization is the ability for a company to give its customers an opportunity to create and choose product to certain specifications, but does have limits.
+One example of mass personalization: A website knowing a user's location and buying habits will offer suggestions tailored to that user's demographics. Each user is classified by some relevant trait (location, age, and so forth) and then given personalization aimed at that group. This means that the personalization is not individual to that singular user, it only pinpoints a specific trait that matches them up with a larger group of people. 
+Behavioral targeting represents a concept that is similar to mass personalization.
+
+
+== Predictive personalization ==
+Predictive personalization is defined as the ability to predict customer behavior, needs or wants - and tailor offers and communications very precisely. Social data is one source of providing this predictive analysis, particularly social data that is structured. Predictive personalization is a much more recent means of personalization and can be used well to augment current personalization offerings.
+
+
+== Map personalization ==
+Digital web maps are also being personalized. Google Maps change the content of the map based on previous searches and other profile information. Technology writer Evgeny Morozov has criticized map personalization as a threat to public space.
+
+
+== See also ==
+Adaptation (computer science)
+Mass customization
+Adaptive hypermedia
+Behavioral targeting
+Bespoke
+Collaborative filtering
+Configurator
+Personalized learning
+Preorder economy
+Real-time marketing
+Recommendation system
+User modeling
+
+
+== References ==
+
+
+== External links ==
+International Institute on Mass Customization & Personalization which organizes MCP, a biannual conference on customization and personalization
+User Modeling and User-Adapted Interaction (UMUAI) The Journal of Personalization Research

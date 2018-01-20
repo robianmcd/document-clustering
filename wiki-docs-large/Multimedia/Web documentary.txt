@@ -1,0 +1,51 @@
+A web documentary, interactive documentary, or multimedia documentary is a documentary production that differs from the more traditional formsvideo, audio, photographicby applying a full complement of multimedia tools. The interactive multimedia capability of the Internet provides documentarians with a unique medium to create non-linear productions that combine photography, text, audio, video, animation, and infographics based on real time content. This way the publications progresses over several weeks.
+Since it is an interactive work, the narrative advances through the actions taken by the users through public interface. The user is able to modify its journey through the documentary based on their responses. This way the participation by the users are the key element that give meaning to this new audiovisual genre. For the first time in the history of documentary, the viewer acquires control of navigation, in a way becoming the author or creator of its own personalized documentary.
+It is possible to say that the sender and the receiver of the media are at the same level. It is difficult to classify web documentary within a determined space, as this new format documentary is the result of the union between the combination of languages and communication systems, along with new interactive experiences where users acquire a key role due to its interactivity.
+
+
+== How web documentaries differ from film documentaries ==
+The web documentary differs from film documentaries through the integration of a combination of multimedia assets (photos, text, audio, animation, graphic design, etc.) with web technologies. In a web documentary, the user has to interact with, or navigate through, the story.
+Compared to a linear narrative where the destination of the story is pre-determined by the filmmaker, a web documentary provides a user with the experience of moving through the story via clusters of information. The integration of information architecture, graphic design, imagery, titles, and sub-titles all play a role in providing visual clues to the user as to the sequence through which they should move through the web documentary. But from that point, the users have to explore the components of the story that interest them the most.
+
+
+== Examples of web documentaries ==
+Green Unplugged  a Culture Unplugged Studios short form documentary showing worldview on environment and showcased by United Nations Council For Environment.
+Welcome to Pine Point  a National Film Board of Canada web documentary exploring the memories of residents from the former community of Pine Point, Northwest Territories.
+Becoming Human  "Paleoanthropology, Evolution, and Human Origins"
+Gift of a Lifetime  Audio slideshow storytelling complemented by interactive historical timeline and an interactive human body
+Interactive Narratives  A collection of web documentary content from various sources
+Water's Journey: Everglades  This web documentary includes six audio slideshows, and interactive map, an interactive historical timeline and film/animation clips
+
+
+== See also ==
+Photojournalism
+Communication design
+Copywriting
+Information design
+Typography
+Desktop publishing
+Motion design
+Interface design
+Web graphic design
+
+
+== References ==
+
+
+== External links ==
+"Webdocs - Survival Guide for Online Filmmakers" (2011) (Preface by Peter Wintonick + 30 international experts (Cizek, Storm, Brachet, Wolking, Bernstein, Strocchi, Saint-Cyr,...), Not So Crazy! Productions
+Web Documentary course information  MFA in Integrated Media Arts Program, Hunter College, New York
+"Genre Guide" by WiredMovie  A reference of genres, terminology and characteristics associated with interactive-web documentaries. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Documental web... Qu es eso? escrito por Philipp Barth y traducido por Luna Bolvar para la cadena alemana Deutsche Welle.
+Tesis Doctoral de Arnau Grifeu
+ADAMS, J. Manual de Comunicacin.
+LANG, P. (2008).Novels and Social Realism. Oxford.
+BARDZELL, S.; WU, V.; BARDZELL, J.; QUAGLIARA, N. (2007). Transmedial interactions and digital games en Proceedings of the International Conference on Advances Computer Entertainment Technology.
+El documental web o Web Doc en blog Ingenio Virtual.
+Documental web... qu es eso? en On Media.
+Liuzzi, A. El documental interactivo en la Era Transmedia. De Gneros Hbridos y nuevos Cdigos Narrativos.
+Documental web. Una nueva pgina para el viejo sueo interactivo Revista TELOS.
+Rodrguez Ferrndiz, R. Narraciones sin fronteras. Transmedia storytelling en la ficcin, informacin, el documental y el activismo social y poltico.
+Gifreu Castells, A. El documental interactivo: Estado de desarrollo actual. Barcelona: Universidad de Pompeu Fabra.
+
+Volver arriba Grifeu, Arnau (2013). El documental interactivo como nuevo gnero audiovisual. Barcelona: Universidad Pompeu Fabra.

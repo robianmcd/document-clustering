@@ -1,0 +1,60 @@
+In commerce and industry, 24/7 or 24-7 service (usually spoken "twenty-four seven") is service that is available any time and, usually, every day. Alternate orthography for the numerical part includes 24x7 (usually spoken "twenty-four by seven"). The numerals stand for "24 hours a day, 7 days a week". Less commonly used, 24/7/52 (adding "52 weeks") and 24/7/365 service (adding "365 days") make clear that service is available every day of the year.
+Synonyms include round-the-clock service (with or without hyphens), especially in British English, and nonstop service.
+The Oxford English Dictionary (OED) defines the term as "twenty-four hours a day, seven days a week; constantly". It lists its first reference to 24/7 as from US magazine Sports Illustrated in 1983. In that story, LSU player Jerry Reynolds described his jump shot in just such a way - plus 365.
+
+
+== Examples ==
+
+
+=== Commercial business ===
+
+24/7 service might be offered by a supermarket, convenience store, ATM, automated online assistant, filling station, restaurant, concierge services or a staffed datacenter, or a staffing company that specializes in providing nurses since often nurses cover shifts 24/7 at hospital which are open 24/7. 24/7 services may also include taxicabs, security services, and in densely populated urban areas, construction crews.
+
+
+=== Emergency services and transport ===
+Public 24/7 services often include those provided by, emergency medical providers, police, fire and emergency telephone numbers, such as 9-1-1 in North America. Transport services like Airports, Airlines, and Ferry services and in some cases Train and Bus may provide 24 hour service.
+
+
+=== Industrial and utility services ===
+Industrial and manufacturing facilities  especially those that operate near or at capacity, or which depend upon processes (such as production lines) that are costly to suspend  often provide 24/7 services. Similarly, utilities generally must provide multiple 24/7 services. For instance, an electricity provider will handle outage reports 24/7 and dispatch emergency repair technicians 24/7, in addition to monitoring electrical infrastructure and producing electricity at all times. The same applies to telecommunications and internet service providers.
+
+
+=== Nonprofit and charity services ===
+Many crisis centers and crisis hotlines provide 24/7 services.
+
+
+== Methods ==
+
+
+=== Continuous operations ===
+Many 24/7 services operate continuously at all times with complete shift staff.
+
+
+=== Geographical alternation ===
+24/7 services which can utilize virtual offices, such as call centers, may employ daytime agents in alternating time zones.
+
+
+=== Personal ===
+Professionals who provide essential services, such as attorneys, physicians, and veterinarians, may personally provide service at all hours in response to emergency paging. Similarly, many other small business owners and sole proprietors who provide essential services, such as roadside assistance, may simply be prepared to answer incoming calls at all times.
+
+
+== Service disruption ==
+In some cases, 24/7 services may be temporarily unavailable under certain circumstances. Such scenarios may include scheduled maintenance, upgrades or renovation, emergency repair, and injunction. 24/7 services which depend upon the physical presence of employees at a given location may also be interrupted when a minimum number of employees cannot be present due to scenarios such as extreme weather, death threats, natural disasters, or mandatory evacuation.
+Some 24/7 services close during major holidays.
+
+
+=== Redundancy and hardening ===
+24/7 services often employ complex schemes that ensure their resistance to potential disruption, resilience in the event of disruption, and minimum standards of overall reliability.
+Critical infrastructure may be supported by failover systems, electric generators, and satellite communications. In the event of catastrophic disaster, some 24/7 services prepare entirely redundant, parallel infrastructures, often in other geographic regions.
+
+
+== Criticism ==
+There has been criticism of companies that claim to provide a 24/7 service when actually only their websites, unattended by any staff, are in operation. When not only services are intended to be available 24/7, but employees are also expected to adapt their working hours with similar flexibility, such 24/7 workplaces can put employees under conditions that limit their personal life choices and development. Calls for a re-humanisation of the 24/7 workplace have therefore been voiced. Some have also remarked on the "collective mania" especially in the United States that takes a sort of pride in the "work at all times" attitude exemplified by the 24/7 concept.
+In England, Wales and Northern Ireland the Sunday trading laws prevent many stores opening truly 24/7, though they sometimes advertise as such. Some core services such as filling stations are exempt from the law requiring them to close. A campaign against changing the law was supported by many bodies including the Church of England, the Church in Wales and many secular bodies, called Keep Sunday Special.
+
+
+== See also ==
+Shopping hours
+
+
+== References ==

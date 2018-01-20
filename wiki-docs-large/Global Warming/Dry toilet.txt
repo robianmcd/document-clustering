@@ -1,0 +1,69 @@
+A dry toilet (or non-flush toilet, no flush toilet or toilet without a flush) is a toilet that operates without flush water, unlike a flush toilet. The dry toilet may have a raised pedestal on which the user can sit, or a squat pan over which the user squats in the case of a squat toilet. In both cases, the excreta (both urine and feces) falls through a drop hole.
+A dry toilet can be any of the following types of toilets: a composting toilet, urine-diverting dry toilet, Arborloo, container-based toilet, bucket toilet, simple pit latrine (but not those that operate on a "pour flush" basis), incinerating toilets, or freezing toilets.
+The urine and feces can either become mixed at the point of dropping or stay separated, which is called urine diversion.
+
+
+== Types ==
+There are several types of toilets which are referred to as "dry toilets". All of them work without flush water and without a connection to a sewer system or septic tank:
+Composting toilet (in most cases without urine diversion but can also be with urine diversion)
+Urine-diverting dry toilet (UDDT)  with urine diversion, as the name implies
+Arborloo  which is similar to a pit latrine but has a much shallower pit and is designed for making compost in the pit
+Container-based toilet - where human excreta is collected in sealable, removable containers (also called cartridges) that are transported to treatment facilities
+Bucket toilet  a very basic type of dry toilet consisting only of a bucket which could be upgraded with urine diversion and the use of covering material
+Simple pit latrines: those pit latrines that do not have a water seal (pour flush pit latrines have a water seal and are therefore not dry toilets).
+Incinerating toilets, freezing toilets  these are toilets with more complicated technology and higher costs
+Other types of dry toilets are under development at universities, for example since 2012 funded by the Bill and Melinda Gates Foundation. Such toilets are meant to operate off-the-grid without connections to water, sewer, or electrical lines.
+
+
+=== Terminology ===
+One important source states that the term "dry toilet" should only refer to the "user interface" and not the subsequent storage and treatment steps. However, in the WASH sector, the term "dry toilet" is still used differently by different people. It often includes also the storage and treatment steps. For example, it is common that the term "dry toilet" is used to refer specifically to a urine-diverting dry toilet or a composting toilet.
+People also use the term to refer to a pit latrine without a water seal even though the pit of a pit latrine is not usually dry. The pit can become very wet because urine mixes with feces in the pit and drainage might be limited. Also, groundwater or surface water can also get into the pit in the event of heavy rains or flooding. Sometimes households even discard greywater (from showering) into the same pit.
+Some publications use the term "dry sanitation" to denote a system that includes dry toilets (in particular urine-diverting dry toilets) connected to a system to manage the excreta. However, this term is not in widespread use nowadays, and might rather be replaced with "non sewer-based sanitation" or "non-sewered sanitation" (see also fecal sludge management).
+The term "outhouse" refers to a small structure, separate from a main building, which covers a pit toilet or a dry toilet. Although it strictly refers only to the structure above the toilet, it is often used to denote the entire toilet structure, i.e. including the hole in the ground in the case of a pit latrine.
+
+
+=== Gallery ===
+
+
+== Uses ==
+Dry toilets (in particular simple pit latrines) are used in developing countries in situations in which flush toilets connected to septic tanks or sewer systems are not possible or not desired, for example due to costs. Sewerage infrastructure costs can be very highin instances of unfavourable terrain or sprawling settlement patterns.
+Dry toilets (in particular composting toilets) are also used in rural areas of developed countries, e.g. many Scandinavian countries (Sweden, Finland, Norway) for summer houses and in national parks.
+
+
+== Advantages ==
+Dry toilets can be a suitable alternative to water flushed toilets when water for flushing is of short supply. Another reason for using dry toilets can be that the infrastrcuture to deal with the wastewater produced from flush toilets is too expensive to construct.
+Dry toilets are used for three main reasons instead of flush toilets:
+To save water  when there is either water scarcity, water is costly (such as in arid or semi-arid climates) or because the user wants to save water for environmental reasons. However, water savings from dry toilets might be insignificant compared to other possible water savings in households or within agricultural practices.
+To prevent pollution of surface water or groundwater  dry toilets do not mix excreta with water and do not pollute groundwater (except for pit latrines which may pollute groundwater); they do not contribute to eutrophication in surface water bodies.
+To enable safe reuse of excreta, after the collected excreta or fecal sludge has undergone further treatment for example by drying or composting.
+Dry toilets and excreta management without sewers can offer more flexibilty in construction than flush toilet and sewer-based systems. It can be a suitable system to adapt to climate change scenarios in desert-like areas like Lima, Peru.
+
+
+== Challenges ==
+Dry toilets do not have a water seal, thus odors may be a problem. This is often the case for pit latrines, UDDTs or composting toilets if they are not designed well or not used properly.
+Dry toilets that are connected to a pit (such as pit latrines) tend to make it very difficult to empty the pit in a safe manner when they are full (see fecal sludge management). On the other hand, dry toilets that are not connected to a pit (e.g. container-based toilets, UDDTs and composting toilets) usually have a safe method for emptying built into them as they are designed to be emptied on a regular and quite frequent basis (within days, weeks or months).
+
+
+=== Urban settings ===
+The use of dry toilets (in particular urine-diverting dry toilets) in urban settings of developed countries is very rare as they come with some significant social and technical challenges. Legal acceptability and support at the local policy level amongst the various government departments involved might be very low for dry toilets.
+
+
+== History ==
+
+The history of dry toilets is essentially the same as the history of toilets in general (until the advent of flush toilets) as well as the history of ecological sanitation systems with regards to reuse of excreta in agriculture.
+
+
+=== Great Britain ===
+In Britain, use of dry toilets continued in some areas (interestingly, often in urban areas) through to the 1940s. It seems that these were often emptied directly onto their gardens, where the excreta was used as fertiliser. Sewer systems did not come to some rural areas in Britain until the 1950s or even after that.
+
+
+=== Australia ===
+Brisbane, Australia was largely unsewered until the early 1970s, with many suburbs having a dry toilet (called dunny in Australia) behind each house.
+
+
+== References ==
+
+
+== External links ==
+Global Dry Toilet Association of Finland
+Dry toilet publications in library of Sustainable Sanitation Alliance

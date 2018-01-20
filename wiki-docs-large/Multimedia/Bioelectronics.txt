@@ -1,0 +1,30 @@
+Bioelectronics is a field of research in the convergence of biology and electronics.
+
+
+== Definitions ==
+At the first C.E.C. Workshop, in Brussels in November 1991, bioelectronics was defined as 'the use of biological materials and biological architectures for information processing systems and new devices'. Bioelectronics, specifically bio-molecular electronics, were described as 'the research and development of bio-inspired (i.e. self-assembly) inorganic and organic materials and of bio-inspired (i.e. massive parallelism) hardware architectures for the implementation of new information processing systems, sensors and actuators, and for molecular manufacturing down to the atomic scale'. The National Institute of Standards and Technology (NIST), an agency of the U.S. Department of Commerce, defined bioelectronics in a 2009 report as "the discipline resulting from the convergence of biology and electronics".
+Sources for information about the field include the Institute of Electrical and Electronics Engineers (IEEE) with its Elsevier journal Biosensors and Bioelectronics published since 1990. The journal describes the scope of bioelectronics as seeking to : "... exploit biology in conjunction with electronics in a wider context encompassing, for example, biological fuel cells, bionics and biomaterials for information processing, information storage, electronic components and actuators. A key aspect is the interface between biological materials and micro- and nano-electronics."
+
+
+== History ==
+Electronics technology has been applied to biology and medicine since the pacemaker was invented and with the medical imaging industry. In 2009, a survey of publications using the term in title or abstract suggested that the center of activity was in Europe (43 percent), followed by Asia (23 percent) and the United States (20 percent).
+
+
+== Materials ==
+Organic bioelectronics is the application of organic electronic material to the field of bioelectronics. Organic materials (i.e. containing carbon) show great promise when it comes to interfacing with biological systems. Current applications focus around neuroscience and infection.
+As one of the few materials well established in CMOS technology, titanium nitride (TiN) turned out as exceptionally stable and well suited for electrode applications in medical implants.
+
+
+== Examples of bioelectronic devices ==
+Chromochord  First musical instrument using bioelectronics invented by Josiah Zayner in 2011
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+ The dictionary definition of bioelectronics at Wiktionary
+Biolectronics at Answers.com

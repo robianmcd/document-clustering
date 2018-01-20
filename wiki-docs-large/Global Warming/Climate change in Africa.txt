@@ -1,0 +1,78 @@
+Climate change in Africa pertains to aspects of climate change within the continent of Africa.
+
+
+== General ==
+According to Schneider et al. (2007), Africa is likely to be the continent most vulnerable to climate change. With high confidence, Boko et al. (2007) also projected that in many French countries and regions, agricultural production, food security and water stress would likely be severely compromised by climate change and climate variability.
+
+
+== East Africa ==
+Weather conditions over the Pacific, including an unusually strong La Nia, interrupted seasonal rains in East Africa for two consecutive seasons, precipitating in 2011 the worst drought in the region seen in 60 years. In many areas, the precipitation rate during the main rainy season from April to June, the primary season, was less than 30% of the average of 19952010.
+In 2012, American researchers uncovered a link between the region's low rainfall and changes in the sea surface temperature of the tropical Pacific Ocean, which they suggested was largely responsible for the disruption of the long rains. The discovery is reportedly contributing significantly toward improved forecasts and emergency preparedness.
+
+
+== African Highlands ==
+
+
+=== Shifts in Malaria Transmission Due to Climate Change ===
+Climate change, and resulting increased temperatures, storms, droughts, and rising sea levels, will affect the incidence and distribution of infectious disease across the globe. This is true in Africa, where malaria continues to have dramatic effects on the population. As climate change continues, the specific areas likely to experience year-round, high-risk transmission of malaria will shift from coastal West Africa to an area between the Democratic Republic of the Congo and Uganda, known as the African Highlands.
+
+
+==== Exposures ====
+To understand the exposures that affect shifting malaria transmission rates we can look to The Epidemiologic Triad, a model that explains the relationship between exposure, transmission and causation of infectious diseases. With regards to malaria transmission rates in the African Highlands, factors and exposures resulting from drastic environmental changes like warmer climates, shifts in weather patterns, and increases in human impact such as deforestation, provide appropriate conditions for malaria transmission between carrier and host. Because of this, vectors will adapt, thrive, and multiply at a fast pace. An increase in the number of vectors that carry parasites, microbes, and pathogens that cause disease will become a health hazard for the human population. Specifically, malaria is caused by the Plasmodium falciparum and Plasmodium vivax parasites which are carried by the vector Anopheles mosquito. Even though the Plasmodium vivax parasite can survive in lower temperatures, the Plasmodium falciparum parasite will only survive and replicate in the mosquito when climate temperatures are above 20. Increases in humidity and rain also contribute to the replication and survival of this infectious agent. Increasing global temperatures combined with changes in land cover as a result of extreme deforestation will create ideal habitats for mosquitoes to survive in the African Highlands. If deforestation continues at its current rate, more land will be available for mosquito breeding grounds, and the population of mosquitos will rapidly increase. The increase in mosquitoes will thus increase the opportunity for both Plasmodium falciparum and Plasmodium vivax parasites to proliferate.
+Exposure to malaria will become a greater risk to humans as the number of female Anopheles mosquitos infected with either the Plasmodium falciparum or Plasmodium vivax parasite increases. The mosquito will transmit the parasite to the human host through a bite, resulting in infection. Then, when an uninfected mosquito bites the now infected human host, the parasite will be transmitted to the mosquitoes which will then become an exposure to other uninfected human hosts. Individuals who are constantly exposed to the Malaria parasite due to multiple bites by mosquitoes that carry the parasite are at greater risk of dying. Infected humans can also transmit the disease to uninfected or healthy humans via contaminated blood.
+
+
+==== Health Effects ====
+The health effects caused by shifts in malaria transmission rates in the African Highlands have the potential to be severe. Research has shown that the effects of climate change on health will impact most populations over the next few decades. However, Africa, and specifically the African Highlands, are susceptible to being particularly negatively affected. In 2010, 91% of the global burden due to malaria deaths occurred in Africa. Several spatiotemporal models have been studied to assess the potential effect of projected climate scenarios on malaria transmission in Africa. A study conducted by Caminade et al. concluded that the most significant climate change effects are confined to specific regions, including the African Highlands. These results are consistent with previous studies.
+Ultimately, studies show an overall increase in climate suitability for malaria transmission resulting in an increase in the population at risk of contracting the disease. Of significant importance is the increase of epidemic potential at higher altitudes (like the African Highlands). Rising temperatures in these areas have the potential to change normally non-malarial areas to areas with seasonal epidemics. Consequently, new populations will be exposed to the disease resulting in healthy years lost. In addition, the disease burden may be more detrimental to areas that lack the ability and resources to effectively respond to such challenges and stresses.
+
+
+==== Scientific Limitations ====
+Scientific limitations when examining shifting malaria transmission rates in the African Highlands are similar to those related to broader understandings of climate change and malaria. While modeling with temperature changes shows that there is a relationship between an increase in temperature and an increase in malaria transmission, limitations still exist. Future population shifts that affect population density, as well as changes in behavior of mosquitos, can affect transmission rates and are limiting factors in determining future risk of malaria outbreaks, which also affect planning for correct outbreak response preparation.
+
+
+==== Challenges and Solutions ====
+The challenges of controlling and possibly eradicating malaria in the African Highlands are many and varied. Many of the strategies used to control malaria havent changed, are few in number, and have rarely been added to in the last 20 years.
+The most common forms of control are educating the public and vector control. The huge geographic area of the vectors Anopheles is possibly the largest challenge faced in the control of malaria. With such a large area to cover it is hard to use insecticides at a continuous and effective level. This form of control is expensive, and the areas affected are not able to sustain control. Without sustained control, a rapid resurgence in parasite transmission is seen. Another challenge with insecticides is that the vector is now becoming insecticide resistant. Due to the fact that mosquitoes have several generations per year, resistance is seen very quickly.
+Education has its limitations as well, as the population most affected by malaria is children, and the educational message is to stay inside during peak mosquito activity. The low socioeconomic status of the people who inhabit the African Highlands is also a challenge. Local health facilities have limited resources, and poor living conditions and malnourishment exacerbate malaria symptoms and increase the likelihood of death due to malaria. As climate change shifts geographic areas of transmission to the African Highlands, the challenge will be to find and control the vector in areas that have not seen it before, and to not waste resources on areas where the temperature is no longer conducive to parasite growth.
+The solutions that can help malaria control and possibly lead to eradication are far fewer in number than the challenges, but if they are effective they can truly change the areas currently affected. There are number of groups working on a vaccine, some are looking to control the transmission of the parasite to the host, or control transmission from human back to the vector. These vaccines are not very effective currently, and lose their effectiveness over time, so are not ideal. But, the development is still progressing in the hopes of finding a better, more effective long lasting vaccine. An alternative to vaccines is vectored immunoprophylaxis (VIP) that is a form a gene therapy. This therapy will change cells in the host that will secrete antigens from various stages of the parasite in the hopes of triggering an anamnestic immune response in the recipient and prevent disease and parasite transmission.
+
+
+==== Policy Implications ====
+The policy implications of climate change and malaria rates in the African Highlands are also vast, and ultimately fall into two categories:
+Enacting policy that will reduce greenhouse gas emissions, thus slowing down climate change, and
+Mitigating problems that have already arisen, and will inevitably continue to develop, due to climate change.
+Addressing both of these areas is of great importance, as those in the poorest countries, including countries that make up the African Highlands, face the greatest burden. Additionally, when countries are forced to contend with a disease like malaria, their prospects for economic growth are slowed. This contributes to continued and worsening global inequality.
+When addressing policy that will reduce greenhouse gas emissions, it is necessary to act on a global scale, even when related effects are narrowed to a smaller area. The 2015 Lancet Commission on Health and Climate Change made nine recommendations for governments to address. These include:
+Make an investment in climate change research.
+Increase financing for global health systems.
+Eliminate coal as an energy source.
+Support cities that encourage healthy activities for individuals and the planet.
+Clarify carbon pricing.
+Increase access to renewable energy in low to middle income countries.
+Quantify avoided burdens when these measures are taken.
+Collaborate with global governments and health organizations.
+Create an agreement that will help counties making changes to become low-carbon economies.
+When one focuses on mitigation, specifically as it relates to malaria in the African Highlands, research is still an important component. This research needs to take many forms, including attribution studies, to help clarify the degree to which malaria rates are attributed to climate change; scenario modeling, which can help further our understanding of future climate change consequences on malaria rates; and examinations of intervention programs and techniques, to help our understanding of what appropriate responses are. Surveillance and monitoring of malaria in populations in the African Highlands will also be important, to better understand disease.
+Beyond these research priorities, it is also important that we enact policies that will significantly increase investments in public health in the African Highlands. This achieves two goals, the first being better outcomes related to malaria in the affected area, and the second being an overall better health environment for populations. It is also important to focus on one-health approaches." This means collaborating on an interdisciplinary level, across various geographic areas, to come up with workable solutions.
+These policies can be seen in action in the World Health Organizations Adaptation to Climate Change in Africa Plan of Action for the Health Sector 2012-2016." This report is intended to provide a comprehensive and evidence-based coordinated response of the health sector to climate change adaptation needs of African countries in order to support the commitments and priorities of African governments." The action plan includes goals like scaling up public health activities, coordinating efforts on an international scale, strengthening partnerships and collaborative efforts, and promoting research on both the effects of climate change as well as effective measures taken in local communities to mitigate climate change consequences.
+
+
+== Sahel ==
+Fifteen per cent of Sahel region population experienced a temperature increase of more than 1 C from 1970 to 2010. The mean seasonal rainfall is also below the long-term average, and flooding has increased in frequency and severity. Since 1985, 54 per cent of the population has been affected by five or more floods in the 17 Sahel region countries.
+In 2012, severe drought conditions in the Sahel were reported. Governments in the region responded quickly, launching strategies to address the issue.
+IPCC Sees Severe Climate Change Impacts on Africa
+As climate change increasingly affects the world, Africa is at risk of facing severe impacts given its geographical position and limited adaptive capacity, exacerbated by widespread poverty and low levels of development. The Sahel region, in particular, will experience higher average temperatures over the course of the 21st century and changes in rainfall patterns, according to the Intergovernmental Panel on Climate Change (IPCC). These trends will affect the frequency and severity of floods, droughts, desertification, sand and dust storms, desert locust plagues and water shortages.
+
+
+== See also ==
+Regional effects of global warming
+Future Climate For Africa programme
+Africa's Climate Report 2016
+
+
+== External links ==
+UNHCR Global Appeal 2012-2013 - Africa regional summary 1 December 2011, 6 p.
+
+
+== References ==

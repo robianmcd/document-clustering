@@ -1,0 +1,32 @@
+Cargo cult science comprises practices that have the semblance of being scientific, but do not in fact follow the scientific method. The term was first used by physicist Richard Feynman during his 1974 commencement address at the California Institute of Technology.
+Cargo cults are religious practices that have appeared in many traditional tribal societies in the wake of interaction with technologically advanced cultures. They focus on obtaining the material wealth (the "cargo") of the advanced culture through magical means, by building landing strips, mock aircraft, mock radios, and the like.
+
+
+== Feynman's speech ==
+The speech is widely posted and Feynman adapted it in his book Surely You're Joking, Mr. Feynman!. Feynman based the phrase on a concept in anthropology, the cargo cult, which describes how some pre-scientific cultures interpreted technologically sophisticated visitors as religious or supernatural figures who brought boons of cargo. Later, in an effort to call for a second visit the natives would develop and engage in complex religious rituals, mirroring the previously observed behavior of the visitors manipulating their machines but without understanding the true nature of those tasks. Just as cargo cultists create mock airports that fail to produce airplanes, cargo cult scientists conduct flawed research that superficially resembles the scientific method, but which fails to produce scientifically useful results.
+The following is an excerpt from a speech (taken from the book).
+
+In the South Seas there is a cargo cult of people. During the war they saw airplanes land with lots of good materials, and they want the same thing to happen now. So they've arranged to imitate things like runways, to put fires along the sides of the runways, to make a wooden hut for a man to sit in, with two wooden pieces on his head like headphones and bars of bamboo sticking out like antennashe's the controllerand they wait for the airplanes to land. They're doing everything right. The form is perfect. It looks exactly the way it looked before. But it doesn't work. No airplanes land. So I call these things cargo cult science, because they follow all the apparent precepts and forms of scientific investigation, but they're missing something essential, because the planes don't land.
+
+Feynman cautioned that to avoid becoming cargo cult scientists, researchers must avoid fooling themselves, be willing to question and doubt their own theories and their own results, and investigate possible flaws in a theory or an experiment. He recommended that researchers adopt an unusually high level of honesty which is rarely encountered in everyday life, and gave examples from advertising, politics, and psychology to illustrate the everyday dishonesty which should be unacceptable in science. Feynman cautioned,
+
+We've learned from experience that the truth will come out. Other experimenters will repeat your experiment and find out whether you were wrong or right. Nature's phenomena will agree or they'll disagree with your theory. And, although you may gain some temporary fame and excitement, you will not gain a good reputation as a scientist if you haven't tried to be very careful in this kind of work. And it's this type of integrity, this kind of care not to fool yourself, that is missing to a large extent in much of the research in cargo cult science.
+
+An example of cargo cult science is an experiment that uses another researcher's results in lieu of an experimental control. Since the other researcher's conditions might differ from those of the present experiment in unknown ways, differences in the outcome might have no relation to the independent variable under consideration. Other examples, given by Feynman, are from educational research, psychology (particularly parapsychology), and physics. He also mentions other kinds of dishonesty, for example, falsely promoting one's research to secure funding.
+
+
+== Examples in specific experiments and results ==
+Oil drop experiment: The history of published results for this experiment is an example given in Surely You're Joking, Mr. Feynman!, in which each new publication slowly and quietly drifted more and more away from the initial (erroneous) values given by Robert Millikan toward the correct value, rather than all having a random distribution from the start around what is now believed to be the correct result. This slow drift in the chronological history of results is unnatural and suggests that nobody wanted to contradict the previous one, instead submitting only concordant results for publication.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Cargo Cult Science (pdf) article with pictures as originally published in Engineering and Science, Volume 37:7, June 1974.
+Cargo Cult Science (pdf) at Caltech Engineering & Science Library.
+Cargo Cult Science (html)dead link] by Richard P. Feynman.
+Surely You're Joking, Mr. Feynman 2010 Cargo Cult Science p 338

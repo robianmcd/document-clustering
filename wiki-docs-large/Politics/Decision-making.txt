@@ -1,0 +1,221 @@
+In psychology, decision-making is regarded as the cognitive process resulting in the selection of a belief or a course of action among several alternative possibilities. Every decision-making process produces a final choice, which may or may not prompt action.
+Decision-making is the process of identifying and choosing alternatives based on the values, preferences and beliefs of the decision-maker.
+
+
+== Overview ==
+Decision-making can be regarded as a problem-solving activity terminated by a solution deemed to be optimal, or at least satisfactory. It is therefore a process which can be more or less rational or irrational and can be based on explicit or tacit knowledge and beliefs.
+Human performance has been the subject of active research from several perspectives:
+Psychological: examining individual decisions in the context of a set of needs, preferences and values the individual has or seeks.
+Cognitive: the decision-making process regarded as a continuous process integrated in the interaction with the environment.
+Normative: the analysis of individual decisions concerned with the logic of decision-making, or communicative rationality, and the invariant choice it leads to.
+A major part of decision-making involves the analysis of a finite set of alternatives described in terms of evaluative criteria. Then the task might be to rank these alternatives in terms of how attractive they are to the decision-maker(s) when all the criteria are considered simultaneously. Another task might be to find the best alternative or to determine the relative total priority of each alternative (for instance, if alternatives represent projects competing for funds) when all the criteria are considered simultaneously. Solving such problems is the focus of multiple-criteria decision analysis (MCDA). This area of decision-making, although very old, has attracted the interest of many researchers and practitioners and is still highly debated as there are many MCDA methods which may yield very different results when they are applied on exactly the same data. This leads to the formulation of a decision-making paradox.
+Logical decision-making is an important part of all science-based professions, where specialists apply their knowledge in a given area to make informed decisions. For example, medical decision-making often involves a diagnosis and the selection of appropriate treatment. But naturalistic decision-making research shows that in situations with higher time pressure, higher stakes, or increased ambiguities, experts may use intuitive decision-making rather than structured approaches. They may follow a recognition primed decision that fits their experience and arrive at a course of action without weighing alternatives.
+The decision-maker's environment can play a part in the decision-making process. For example, environmental complexity is a factor that influences cognitive function. A complex environment is an environment with a large number of different possible states which come and go over time. Studies done at the University of Colorado have shown that more complex environments correlate with higher cognitive function, which means that a decision can be influenced by the location. One experiment measured complexity in a room by the number of small objects and appliances present; a simple room had less of those things. Cognitive function was greatly affected by the higher measure of environmental complexity making it easier to think about the situation and make a better decision.
+Research about decision-making is also published under the label problem solving, in particular in European psychological research.
+
+
+== Problem analysis ==
+It is important to differentiate between problem analysis and decision-making. Traditionally, it is argued that problem analysis must be done first, so that the information gathered in that process may be used towards decision-making.
+Characteristics of problem analysis
+Problems are merely deviations from performance standards
+Problems must be precisely identified and described
+Problems are caused by a change from a distinctive feature
+Something can always be used to distinguish between what has and hasn't been affected by a cause
+Causes of problems can be deduced from relevant changes found in analyzing the problem
+Most likely cause of a problem is the one that exactly explains all the facts, while having the fewest (or weakest) assumptions (Occam's razor).
+Characteristics of decision-making
+Objectives must first be established
+Objectives must be classified and placed in order of importance
+Alternative actions must be developed
+The alternatives must be evaluated against all the objectives
+The alternative that is able to achieve all the objectives is the tentative decision
+The tentative decision is evaluated for more possible consequences
+The decisive actions are taken, and additional actions are taken to prevent any adverse consequences from becoming problems and starting both systems (problem analysis and decision-making) all over again
+There are steps that are generally followed that result in a decision model that can be used to determine an optimal production plan
+In a situation featuring conflict, role-playing may be helpful for predicting decisions to be made by involved parties
+
+
+=== Analysis paralysis ===
+
+Analysis paralysis is the state of over-analyzing (or over-thinking) a situation so that a decision or action is never taken, in effect paralyzing the outcome.
+
+
+=== Information overload ===
+
+Information overload is "a gap between the volume of information and the tools we have to assimilate" it. Excessive information affects problem processing and tasking, which affects decision-making. Crystal C. Hall and colleagues described an "illusion of knowledge", which means that as individuals encounter too much knowledge it can interfere with their ability to make rational decisions.
+
+
+=== Post-decision analysis ===
+Evaluation and analysis of past decisions is complementary to decision-making. See also Mental accounting and Postmortem documentation.
+
+
+== Decision-making techniques ==
+Decision-making techniques can be separated into two broad categories: group decision-making techniques and individual decision-making techniques. Individual decision-making techniques can also often be applied by a group.
+
+
+=== Group ===
+Consensus decision-making tries to avoid "winners" and "losers". Consensus requires that a majority approve a given course of action, but that the minority agree to go along with the course of action. In other words, if the minority opposes the course of action, consensus requires that the course of action be modified to remove objectionable features.
+Voting-based methods:
+Majority requires support from more than 50% of the members of the group. Thus, the bar for action is lower than with consensus.
+Plurality, where the largest block in a group decides, even if it falls short of a majority.
+Range voting lets each member score one or more of the available options. The option with the highest average is chosen. This method has experimentally been shown to produce the lowest Bayesian regret among common voting methods, even when voters are strategic.
+
+Delphi method is structured communication technique for groups, originally developed for collaborative forecasting but has also been used for policy making.
+Dotmocracy is a facilitation method that relies on the use of special forms called Dotmocracy Sheets to allow large groups to collectively brainstorm and recognize agreement on an unlimited number of ideas they have authored.
+Participative decision-making occurs when an authority opens up the decision-making process to a group of people for a collaborative effort.
+Decision engineering uses a visual map of the decision-making process based on system dynamics and can be automated through a decision modeling tool, integrating big data, machine learning, and expert knowledge as appropriate.
+
+
+=== Individual ===
+Decisional balance sheet: listing the advantages and disadvantages (benefits and costs, pros and cons) of each option, as suggested by Plato's Protagoras and by Benjamin Franklin.
+Simple prioritization: choosing the alternative with the highest probability-weighted utility. This may involve considering the opportunity cost of different alternatives. See also Decision analysis.
+Satisficing: examining alternatives only until the first acceptable one is found. The opposite is maximizing or optimizing, in which many or all alternatives are examined in order to find the best option.
+Acquiesce to a person in authority or an "expert"; "just following orders".
+Anti-authoritarianism: taking the most opposite action compared to the advice of mistrusted authorities.
+Flipism e.g. flipping a coin, cutting a deck of playing cards, and other random or coincidence methods  or prayer, tarot cards, astrology, augurs, revelation, or other forms of divination, superstition or pseudoscience.
+Automated decision support: setting up criteria for automated decisions.
+Decision support systems: using decision-making software when faced with highly complex decisions or when considering many stakeholders, categories, or other factors that affect decisions.
+
+
+== Steps ==
+A variety of researchers have formulated similar prescriptive steps aimed at improving decision-making.
+
+
+=== GOFER ===
+In the 1980s, psychologist Leon Mann and colleagues developed a decision-making process called GOFER, which they taught to adolescents, as summarized in the book Teaching Decision Making To Adolescents. The process was based on extensive earlier research conducted with psychologist Irving Janis. GOFER is an acronym for five decision-making steps:
+Goals clarification: Survey values and objectives.
+Options generation: Consider a wide range of alternative actions.
+Facts-finding: Search for information.
+Consideration of Effects: Weigh the positive and negative consequences of the options.
+Review and implementation: Plan how to implement the options and implement them.
+
+
+=== DECIDE ===
+In 2008, Kristina Guo published the DECIDE model of decision-making, which has six parts:
+Define the problem
+Establish or Enumerate all the criteria (constraints)
+Consider or Collect all the alternatives
+Identify the best alternative
+Develop and implement a plan of action
+Evaluate and monitor the solution and examine feedback when necessary
+
+
+=== Other ===
+In 2007, Pam Brown of Singleton Hospital in Swansea, Wales, divided the decision-making process into seven steps:
+Outline your goal and outcome.
+Gather data.
+Develop alternatives (i.e., brainstorming).
+List pros and cons of each alternative.
+Make the decision.
+Immediately take action to implement it.
+Learn from and reflect on the decision.
+In 2009, professor John Pijanowski described how the Arkansas Program, an ethics curriculum at the University of Arkansas, used eight stages of moral decision-making based on the work of James Rest:
+Establishing community: Create and nurture the relationships, norms, and procedures that will influence how problems are understood and communicated. This stage takes place prior to and during a moral dilemma.
+Perception: Recognize that a problem exists.
+Interpretation: Identify competing explanations for the problem, and evaluate the drivers behind those interpretations.
+Judgment: Sift through various possible actions or responses and determine which is more justifiable.
+Motivation: Examine the competing commitments which may distract from a more moral course of action and then prioritize and commit to moral values over other personal, institutional or social values.
+Action: Follow through with action that supports the more justified decision.
+Reflection in action.
+Reflection on action.
+
+
+=== Group stages ===
+According to B. Aubrey Fisher, there are four stages or phases that should be involved in all group decision-making:
+Orientation. Members meet for the first time and start to get to know each other.
+Conflict. Once group members become familiar with each other, disputes, little fights and arguments occur. Group members eventually work it out.
+Emergence. The group begins to clear up vague opinions by talking about them.
+Reinforcement. Members finally make a decision and provide justification for it.
+It is said that establishing critical norms in a group improves the quality of decisions, while the majority of opinions (called consensus norms) do not.
+
+
+== Rational and irrational ==
+In economics, it is thought that if humans are rational and free to make their own decisions, then they would behave according to rational choice theory. Rational choice theory says that a person consistently makes choices that lead to the best situation for himself or herself, taking into account all available considerations including costs and benefits; the rationality of these considerations is from the point of view of the person himself, so a decision is not irrational just because someone else finds it questionable.
+In reality, however, there are some factors that affect decision-making abilities and cause people to make irrational decisions  for example, to make contradictory choices when faced with the same problem framed in two different ways (see also Allais paradox).
+One of the most prominent theories of decision making is subjective expected utility (SEU) theory, which describes the rational behavior of the decision maker. The decision maker assesses different alternatives by their utilities and the subjective probability of occurrence.
+
+
+== Cognitive and personal biases ==
+Biases usually affect decision-making processes. Here is a list of commonly debated biases in judgment and decision-making:
+Selective search for evidence (also known as confirmation bias): People tend to be willing to gather facts that support certain conclusions but disregard other facts that support different conclusions. Individuals who are highly defensive in this manner show significantly greater left prefrontal cortex activity as measured by EEG than do less defensive individuals.
+Premature termination of search for evidence: People tend to accept the first alternative that looks like it might work.
+Cognitive inertia is unwillingness to change existing thought patterns in the face of new circumstances.
+Selective perception: People actively screen out information that they do not think is important (see also Prejudice). In one demonstration of this effect, discounting of arguments with which one disagrees (by judging them as untrue or irrelevant) was decreased by selective activation of right prefrontal cortex.
+Wishful thinking is a tendency to want to see things in a certain  usually positive  light, which can distort perception and thinking.
+Choice-supportive bias occurs when people distort their memories of chosen and rejected options to make the chosen options seem more attractive.
+Recency: People tend to place more attention on more recent information and either ignore or forget more distant information (see Semantic priming). The opposite effect in the first set of data or other information is termed primacy effect.
+Repetition bias is a willingness to believe what one has been told most often and by the greatest number of different sources.
+Anchoring and adjustment: Decisions are unduly influenced by initial information that shapes our view of subsequent information.
+Groupthink is peer pressure to conform to the opinions held by the group.
+Source credibility bias is a tendency to reject a person's statement on the basis of a bias against the person, organization, or group to which the person belongs. People preferentially accept statement by others that they like (see also Prejudice).
+Incremental decision-making and escalating commitment: People look at a decision as a small step in a process, and this tends to perpetuate a series of similar decisions. This can be contrasted with zero-based decision-making (see Slippery slope).
+Attribution asymmetry: People tend to attribute their own success to internal factors, including abilities and talents, but explain their failures in terms of external factors such as bad luck. The reverse bias is shown when people explain others' success or failure.
+Role fulfillment is a tendency to conform to others' decision-making expectations.
+Underestimating uncertainty and the illusion of control: People tend to underestimate future uncertainty because of a tendency to believe they have more control over events than they really do.
+Framing bias: This is best avoided by increasing numeracy and presenting data in several formats (for example, using both absolute and relative scales).Sunk-cost fallacy is a specific type of framing effect that affects decision-making. It involves an individual making a decision about a current situation based on what they have previously invested in the situation. An example of this would be an individual that is refraining from dropping a class that they are most likely to fail, due to the fact that they feel as though they have done so much work in the course thus far.
+
+Prospect theory involves the idea that when faced with a decision-making event, an individual is more likely to take on a risk when evaluating potential losses, and are more likely to avoid risks when evaluating potential gains. This can influence one's decision-making depending if the situation entails a threat, or opportunity.
+Optimism bias is a tendency to overestimate the likelihood of positive events occurring in the future and underestimate the likelihood of negative life events. Such biased expectations are generated and maintained in the face of counter evidence through a tendency to discount undesirable information. An optimism bias can alter risk perception and decision-making in many domains, ranging from finance to health.
+Reference class forecasting was developed to eliminate or reduce cognitive biases in decision-making.
+
+
+== Cognitive limitations in groups ==
+
+In groups, people generate decisions through active and complex processes. One method consists of three steps: initial preferences are expressed by members; the members of the group then gather and share information concerning those preferences; finally, the members combine their views and make a single choice about how to face the problem. Although these steps are relatively ordinary, judgements are often distorted by cognitive and motivational biases, include "sins of commission", "sins of omission", and "sins of imprecision".
+
+
+== Cognitive styles ==
+
+
+=== Optimizing vs. satisficing ===
+
+Herbert A. Simon coined the phrase "bounded rationality" to express the idea that human decision-making is limited by available information, available time and the mind's information-processing ability. Further psychological research has identified individual differences between two cognitive styles: maximizers try to make an optimal decision, whereas satisficers simply try to find a solution that is "good enough". Maximizers tend to take longer making decisions due to the need to maximize performance across all variables and make tradeoffs carefully; they also tend to more often regret their decisions (perhaps because they are more able than satisficers to recognise that a decision turned out to be sub-optimal).
+
+
+=== Intuitive vs. rational ===
+
+The psychologist Daniel Kahneman, adopting terms originally proposed by the psychologists Keith Stanovich and Richard West, has theorized that a person's decision-making is the result of an interplay between two kinds of cognitive processes: an automatic intuitive system (called "System 1") and an effortful rational system (called "System 2"). System 1 is a bottom-up, fast, and implicit system of decision-making, while system 2 is a top-down, slow, and explicit system of decision-making. System 1 includes simple heuristics in judgment and decision-making such as the affect heuristic, the availability heuristic, the familiarity heuristic, and the representativeness heuristic.
+
+
+=== Combinatorial vs. positional ===
+Styles and methods of decision-making were elaborated by Aron Katsenelinboigen, the founder of predispositioning theory. In his analysis on styles and methods, Katsenelinboigen referred to the game of chess, saying that "chess does disclose various methods of operation, notably the creation of predisposition-methods which may be applicable to other, more complex systems."
+Katsenelinboigen states that apart from the methods (reactive and selective) and sub-methods (randomization, predispositioning, programming), there are two major styles: positional and combinational. Both styles are utilized in the game of chess. According to Katsenelinboigen, the two styles reflect two basic approaches to uncertainty: deterministic (combinational style) and indeterministic (positional style). Katsenelinboigen's definition of the two styles are the following.
+The combinational style is characterized by:
+a very narrow, clearly defined, primarily material goal; and
+a program that links the initial position with the final outcome.
+In defining the combinational style in chess, Katsenelinboigen wrote: "The combinational style features a clearly formulated limited objective, namely the capture of material (the main constituent element of a chess position). The objective is implemented via a well-defined, and in some cases, unique sequence of moves aimed at reaching the set goal. As a rule, this sequence leaves no options for the opponent. Finding a combinational objective allows the player to focus all his energies on efficient execution, that is, the player's analysis may be limited to the pieces directly partaking in the combination. This approach is the crux of the combination and the combinational style of play.
+The positional style is distinguished by:
+a positional goal; and
+a formation of semi-complete linkages between the initial step and final outcome.
+"Unlike the combinational player, the positional player is occupied, first and foremost, with the elaboration of the position that will allow him to develop in the unknown future. In playing the positional style, the player must evaluate relational and material parameters as independent variables. ... The positional style gives the player the opportunity to develop a position until it becomes pregnant with a combination. However, the combination is not the final goal of the positional player  it helps him to achieve the desirable, keeping in mind a predisposition for the future development. The pyrrhic victory is the best example of one's inability to think positionally."
+The positional style serves to:
+create a predisposition to the future development of the position;
+induce the environment in a certain way;
+absorb an unexpected outcome in one's favor; and
+avoid the negative aspects of unexpected outcomes.
+
+
+=== Influence of Myers-Briggs type ===
+According to Isabel Briggs Myers, a person's decision-making process depends to a significant degree on their cognitive style. Myers developed a set of four bi-polar dimensions, called the Myers-Briggs Type Indicator (MBTI). The terminal points on these dimensions are: thinking and feeling; extroversion and introversion; judgment and perception; and sensing and intuition. She claimed that a person's decision-making style correlates well with how they score on these four dimensions. For example, someone who scored near the thinking, extroversion, sensing, and judgment ends of the dimensions would tend to have a logical, analytical, objective, critical, and empirical decision-making style. However, some psychologists say that the MBTI lacks reliability and validity and is poorly constructed.
+Other studies suggest that these national or cross-cultural differences in decision-making exist across entire societies. For example, Maris Martinsons has found that American, Japanese and Chinese business leaders each exhibit a distinctive national style of decision-making.
+
+
+== Neuroscience ==
+Decision-making is a region of intense study in the fields of systems neuroscience, and cognitive neuroscience. Several brain structures, including the anterior cingulate cortex (ACC), orbitofrontal cortex and the overlapping ventromedial prefrontal cortex are believed to be involved in decision-making processes. A neuroimaging study found distinctive patterns of neural activation in these regions depending on whether decisions were made on the basis of perceived personal volition or following directions from someone else. Patients with damage to the ventromedial prefrontal cortex have difficulty making advantageous decisions.
+A common laboratory paradigm for studying neural decision-making is the two-alternative forced choice task (2AFC), in which a subject has to choose between two alternatives within a certain time. A study of a two-alternative forced choice task involving rhesus monkeys found that neurons in the parietal cortex not only represent the formation of a decision but also signal the degree of certainty (or "confidence") associated with the decision. Another recent study found that lesions to the ACC in the macaque resulted in impaired decision-making in the long run of reinforcement guided tasks suggesting that the ACC may be involved in evaluating past reinforcement information and guiding future action. A 2012 study found that rats and humans can optimally accumulate incoming sensory evidence, to make statistically optimal decisions.
+Emotion appears able to aid the decision-making process. Decision-making often occurs in the face of uncertainty about whether one's choices will lead to benefit or harm (see also Risk). The somatic-marker hypothesis is a neurobiological theory of how decisions are made in the face of uncertain outcome. This theory holds that such decisions are aided by emotions, in the form of bodily states, that are elicited during the deliberation of future consequences and that mark different options for behavior as being advantageous or disadvantageous. This process involves an interplay between neural systems that elicit emotional/bodily states and neural systems that map these emotional/bodily states. A recent lesion mapping study of 152 patients with focal brain lesions conducted by Aron K. Barbey and colleagues provided evidence to help discover the neural mechanisms of emotional intelligence.
+Although it is unclear whether the studies generalize to all processing, subconscious processes have been implicated in the initiation of conscious volitional movements. See the Neuroscience of free will.
+
+
+== In adolescents vs. adults ==
+During their adolescent years, teens are known for their high-risk behaviors and rash decisions. Recent research has shown that there are differences in cognitive processes between adolescents and adults during decision-making. Researchers have concluded that differences in decision-making are not due to a lack of logic or reasoning, but more due to the immaturity of psychosocial capacities that influence decision-making. Examples of their undeveloped capacities which influence decision-making would be impulse control, emotion regulation, delayed gratification and resistance to peer pressure. In the past, researchers have thought that adolescent behavior was simply due to incompetency regarding decision-making. Currently, researchers have concluded that adults and adolescents are both competent decision-makers, not just adults. However, adolescents' competent decision-making skills decrease when psychosocial capacities become present.
+Recent research has shown that risk-taking behaviors in adolescents may be the product of interactions between the socioemotional brain network and its cognitive-control network. The socioemotional part of the brain processes social and emotional stimuli and has been shown to be important in reward processing. The cognitive-control network assists in planning and self-regulation. Both of these sections of the brain change over the course of puberty. However, the socioemotional network changes quickly and abruptly, while the cognitive-control network changes more gradually. Because of this difference in change, the cognitive-control network, which usually regulates the socioemotional network, struggles to control the socioemotional network when psychosocial capacities are present.
+When adolescents are exposed to social and emotional stimuli, their socioemotional network is activated as well as areas of the brain involved in reward processing. Because teens often gain a sense of reward from risk-taking behaviors, their repetition becomes ever more probable due to the reward experienced. In this, the process mirrors addiction. Teens can become addicted to risky behavior because they are in a high state of arousal and are rewarded for it not only by their own internal functions but also by their peers around them.
+Adults are generally better able to control their risk-taking because their cognitive-control system has matured enough to the point where it can control the socioemotional network, even in the context of high arousal or when psychosocial capacities are present. Also, adults are less likely to find themselves in situations that push them to do risky things. For example, teens are more likely to be around peers who peer pressure them into doing things, while adults are not as exposed to this sort of social setting.
+A recent study suggests that adolescents have difficulties adequately adjusting beliefs in response to bad news (such as reading that smoking poses a greater risk to health than they thought), but do not differ from adults in their ability to alter beliefs in response to good news. This creates biased beliefs, which may lead to greater risk taking.
+
+
+== See also ==
+
+
+== References ==

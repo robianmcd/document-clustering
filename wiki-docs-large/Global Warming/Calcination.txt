@@ -1,0 +1,34 @@
+Not to be confused with- Calcification
+Authorities differ on the meaning of calcination (also referred to as calcining). The IUPAC defines it as 'heating to high temperatures in air or oxygen'. However, calcination is also used to mean a thermal treatment process in the absence or limited supply of air or oxygen applied to ores and other solid materials to bring about a thermal decomposition. A calciner is a steel cylinder that rotates inside a heated furnace and performs indirect high-temperature processing (5501150 C, or 10002100 F) within a controlled atmosphere.
+
+
+== Industrial processes ==
+
+The process of calcination derives its name from the Latin calcinare (to burn lime) due to its most common application, the decomposition of calcium carbonate (limestone) to calcium oxide (lime) and carbon dioxide, in order to create cement. The product of calcination is usually referred to in general as "calcine", regardless of the actual minerals undergoing thermal treatment. Calcination is carried out in furnaces or reactors (sometimes referred to as kilns or calciners) of various designs including shaft furnaces, rotary kilns, multiple hearth furnaces, and fluidized bed reactors.
+Examples of calcination processes include the following:
+decomposition of carbonate minerals, as in the calcination of limestone to drive off carbon dioxide;
+decomposition of hydrated minerals, as in the calcination of bauxite and gypsum, to remove crystalline water as water vapor;
+decomposition of volatile matter contained in raw petroleum coke;
+heat treatment to effect phase transformations, as in conversion of anatase to rutile or devitrification of glass materials
+removal of ammonium ions in the synthesis of zeolites.
+
+
+== Calcination reactions ==
+Calcination reactions usually take place at or above the thermal decomposition temperature (for decomposition and volatilization reactions) or the transition temperature (for phase transitions). This temperature is usually defined as the temperature at which the standard Gibbs free energy for a particular calcination reaction is equal to zero. For example, in limestone calcination, a decomposition process, the chemical reaction is
+CaCO3  CaO + CO2(g)
+The standard Gibbs free energy of reaction is approximated as Gr = 177,100  158 T (J/mol). The standard free energy of reaction is 0 in this case when the temperature, T, is equal to 1121 K, or 848 C.
+See also calcination equilibrium of calcium carbonate
+Calcination can be used in carbon negative electricity generation.
+
+
+== Oxidation ==
+In some cases, calcination of a metal results in oxidation of the metal. Jean Rey noted that lead and tin when calcinated gained weight, presumably as they were being oxidized.
+
+
+== Alchemy ==
+In alchemy, calcination was believed to be one of the 12 vital processes required for the transformation of a substance.
+Alchemists distinguished two kinds of calcination, actual and potential. Actual calcination is that brought about by actual fire, from wood, coals, or other fuel, raised to a certain temperature. Potential calcination is that brought about by potential fire, such as corrosive chemicals; for example, gold was calcined in a reverberatory furnace with mercury and sal ammoniac; silver with common salt and alkali salt; copper with salt and sulfur; iron with sal ammoniac and vinegar; tin with antimony; lead with sulfur; and mercury with aqua fortis.
+There was also philosophical calcination, which was said to occur when horns, hooves, etc., were hung over boiling water, or other liquor, until they had lost their mucilage, and were easily reducible into powder.
+
+
+== References ==

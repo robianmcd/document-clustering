@@ -1,0 +1,34 @@
+A data entry clerk is a member of staff employed to enter or update data into a computer system. Data are often entered into a computer from paper documents  using a keyboard, optical scanner, or data recorder. The keyboards used can often have specialist keys and multiple colors to help in the task and speed up the work. Proper ergonomics at the workstation is a common topic considered.
+While requisite skills can vary depending on the nature of the data being entered, few specialized skills are usually required, aside from touch typing proficiency with adequate speed and accuracy. The ability to focus for lengthy periods is necessary to eliminate or at least reduce errors. When dealing with sensitive or private information such as medical, financial or military records, a person's character and discretion become very relevant as well; training on confidentiality protocols may be required, for instance, in the compliance of HIPAA. Beyond these traits, no technical knowledge is generally required and these jobs can even be worked from home.
+
+
+== History ==
+
+The invention of punch card data processing in the 1890s created a demand for many workers, typically women, to run keypunch machines. It was common practice to ensure accuracy by entering data twice, the second time on a verifier, a separate, keyboard-equipped machine, such as the IBM 056. In the 1970s, punch card data entry was gradually replaced by the use of video display terminals.
+
+
+== Examples ==
+For a mailing company, data entry clerks might be required to type in reference numbers for items of mail which had failed to reach their destination, so that the relevant addresses could be deleted from the database used to send the mail out. If the company was compiling a database from addresses handwritten on a questionnaire, the person typing those into the database would be a data entry clerk. In a cash office, a data entry clerk might be required to type expenses into a database using numerical codes.
+
+
+== Optical character/mark recognition ==
+Due to the advancement of technology, many data entry clerks no longer work with hand-written documents. Instead, the documents are first scanned by a combined OCR/OMR system (optical character recognition and optical mark recognition,) which attempts to read the documents and process the data electronically. The accuracy of OCR varies widely based upon the quality of the original document as well as the scanned image; hence the ongoing need for data entry clerks. Although OCR technology is continually being developed, many tasks still require a data entry clerk to review the results afterwards to check the accuracy of the data and to manually key in any missed or incorrect information.
+An example of this system would be one commonly used to document health insurance claims, such as for Medicaid in the United States. In many systems, the hand-written forms are first scanned into digital images (JPEG, png, bitmap, etc.). These files are then processed by the optical character recognition system, where many fields are completed by the computerized optical scanner. When the OCR software has low confidence for a data field it is flagged for review - not the entire record but just the single field. The data entry clerk then manually reviews the data already entered by OCR, corrects it if needed, and fills in any missing data by simultaneously viewing the image on-screen.
+The accuracy of personal records, as well as billing or financial information, is usually of great importance to the general public as well as the health care provider. Sensitive or vital information such as this is often checked many times, by both clerk and machine, before being accepted.
+
+
+== Job security ==
+The job is usually low-skilled, so veteran staff are often employed on a temporary basis after a large survey or census has been completed. However, most companies handling large amounts of data on a regular basis will spread the contracts and workload across the year and will hire part-time.
+The role of data entry clerks working with physical hand-written documents is on the decline in the developed world, because employees within a company frequently enter their own data, as it is collected now, instead of having a different employee do this task. An example of this is an operator working in a call center or a cashier in a shop. Cost is another reason for the decline. Data entry is labor-intensive for large batches and, therefore, expensive, so large companies will sometimes outsource the work to third world countries where there is no shortage of cheaper unskilled labor.
+
+
+== Education and training ==
+For the job as a data entry clerk, one must possess competent math and English skills. The worker will need to be very familiar with office software such as word processors, databases, and spreadsheets. One must have quickness, focus, and great customer service skills.
+Education higher than a high school diploma is often not required, but some companies require a bachelor's degree. Companies also hope the worker will have one year of experience in a related field.
+
+
+== Pay ==
+The median pay is between $19,396 and $34,990.
+
+
+== References ==

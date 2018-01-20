@@ -1,0 +1,16 @@
+Ibn Sahl (full name Ab Sad al-Al ibn Sahl     ; c. 9401000) was a mathematician and physicist of the Islamic Golden Age, associated with the Buwayhid court of Baghdad. Nothing else about his person is known.
+He is known to have written an optical treatise around 984. The text of this treatise was reconstructed by Roshdi Rashed from two manuscripts (edited 1993).: Damascus, al-hirya MS 4871, 3 fols., and Tehran, Mill MS 867, 51 fols. The Tehran manuscript is much longer, but it is badly damaged, and the Damascus ms. contains a section missing entirely from the Tehran ms. The Damascus ms. has the title F al-'la al-muriqa "On the burning instruments", the Tehran ms. has a title added in a later hand Kitb al-harrqt "The book of burners".
+Ibn Sahl is the first Muslim scholar known to have studied Ptolemy's Optics, and as such an important precursor to the much more influential Book of Optics by Ibn Al-Haytham (Alhazen), written some thirty years later. The treatise deals with the optical properties of curved mirrors and lenses and the law of refraction (Snell's law). Ibn Sahl uses the law of refraction to derive lens shapes that focus light with no geometric aberrations, known as anaclastic lenses. In the remaining parts of the treatise, Ibn Sahl dealt with parabolic mirrors, ellipsoidal mirrors, biconvex lenses, and techniques for drawing hyperbolic arcs.
+
+
+== See also ==
+History of optics
+Ab Sahl al-Qh
+
+
+== References ==
+
+Rashed, R. "A pioneer in anaclastics: Ibn Sahl on burning mirrors and lenses", Isis 81, pp. 464491, 1990.
+Rashed, R., Gomtrie et dioptrique au Xe sicle: Ibn Sahl, al-Quhi et Ibn al-Haytham. Paris: Les Belles Lettres, 1993
+Zghal, Mourad; et al. (2007). "The first steps for learning optics: Ibn Sahl's, Al- Haytham's and Young's works on refraction as typical examples" (PDF). The Education and Training in Optics and Photonics Conference. International Commission for Optics: 3. Retrieved 20 June 2011. 
+Berggren, Len (2007). "Ibn Sahl: Ab Sad alAl ibn Sahl". In Thomas Hockey; et al. The Biographical Encyclopedia of Astronomers. New York: Springer. p. 567. ISBN 978-0-387-31022-0.  (PDF version)

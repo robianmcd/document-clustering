@@ -1,0 +1,46 @@
+Paleoecology (also spelled palaeoecology) is the study of interactions between organisms and/or interactions between organisms and their environments across geologic timescales. As a discipline, paleoecology interacts with, depends on and informs a variety of fields including paleontology, ecology, climatology and biology.
+Paleoecology emerged out of the field of paleontology in the 1950s, though paleontologists have conducted paleoecological studies since the creation of paleontology in the 1700s and 1800s. Combining the investigative approach of searching for fossils with the theoretical approach of Charles Darwin and Alexander von Humboldt, paleoecology began as paleontologists began examining both the ancient organisms they discovered and the reconstructed environments in which they lived. Visual depictions of past marine and terrestrial communities has been considered an early form of paleoecology.
+
+
+== Overview of paleoecological approaches ==
+Classic paleoecology uses data from fossils and subfossils to reconstruct the ecosystems of the past. It involves the study of fossil organisms and their associated remains (such as shells, teeth, pollen, and seeds), which can help in the interpretation of their life cycle, living interactions, natural environment, communities, and manner of death and burial. Such interpretations aid the reconstruction of past environments (i.e., paleoenvironments). Paleoecologists have studied the fossil record to try to clarify the relationship animals have to their environment, in part to help understand the current state of biodiversity. They have identified close links between vertebrate taxonomic and ecological diversity, that is, between the diversity of animals and the niches they occupy. Classical paleoecology is a primarily reductionist approach: scientists conduct detailed analysis of relatively small groups of organisms within shorter geologic timeframes.
+Evolutionary paleoecology uses data from fossils and other evidence to examine how organisms and their environments change throughout time. Evolutionary paleoecologists take the holistic approach of looking at both organism and environmental change, accounting for physical and chemical changes in the atmosphere, lithosphere and hydrosphere across time. By studying patterns of evolution and extinction in the context of environmental change, evolutionary paleoecologists are able to examine concepts of vulnerability and resilience in species and environments.
+Community paleoecology uses statistical analysis to examine the composition and distribution of groups of plants or animals. By quantifying how plants or animals are associated, community paleoecologists are able to investigate the structures of ancient communities of organisms. Advances in technology have helped propel the field, through the use of physical models and computer-based analysis.
+
+
+== Major principles ==
+While the functions and relationships of fossil organisms may not be observed directly (as in ecology), scientists can describe and analyze both individuals and communities over time. To do so, paleoecologists make the following assumptions:
+All organisms are adapted and restricted to a particular environment, and are usually adapted to a particular lifestyle.
+Essentially all organisms depend on another organism, whether directly or indirectly.
+The fossil or physical records are inherently incomplete - the geologic record is selective and some environments are more likely to be preserved than others. Taphonomy, affecting the over- and underrepresentation of fossils, is an extremely important consideration in interpreting fossil assemblages.
+Uniformitarianism is the concept that processes that took place in the geologic past are the same as the ones that are observed taking place today. In paleoecology, uniformitarianism is used as a methodology: paleoecologists make inferences about ancient organisms and environments based on analogies they find in the present.
+
+
+== Paleoecological methods ==
+
+The aim of paleoecology is to build the most detailed model possible of the life environment of previously living organisms found today as fossils. The process of reconstructing past environments requires the use of archives (e.g., sediment sequences), proxies (e.g., the micro or mega-fossils and other sediment characteristics that provide the evidence of the biota and the physical environment), and chronology (e.g., obtaining absolute (or relative) dating of events in the archive). Such reconstruction takes into consideration complex interactions among environmental factors such as temperatures, food supplies, and degree of solar illumination. Often much of this information is lost or distorted by the fossilization process or diagenesis of the enclosing sediments, making interpretation difficult.
+The environmental complexity factor is normally tackled through statistical analysis of the available numerical data (quantitative paleontology or paleostatistics), while the study of post-mortem processes is known as the field of taphonomy.
+
+
+== Quaternary ==
+Much of the original paleoecological research has focused on the last two million years (the Quaternary period), because older environments are less well represented in the fossil timeline of evolution. Indeed, many studies concentrate on the Holocene epoch (the last 11,500 years), or the last glacial stage of the Pleistocene epoch (the Wisconsin/Weichsel/Devensian/Wrm glaciation of the ice age, from 50,000 to 11,500 years ago). Such studies are useful for understanding the dynamics of ecosystem change and for reconstructing pre-industrialization ecosystems.
+
+
+== Applications of paleoecology ==
+Paleoecological studies are used to inform conservation, management and restoration efforts. In particular, fire-focused paleoecology is an informative field of study to land managers seeking to restore ecosystem fire regimes.
+
+
+== See also ==
+Historical ecology
+Palaeogeography
+Paleolimnology
+Palynology
+Palaeogeography, Palaeoclimatology, Palaeoecology (peer-reviewed journal)
+
+
+== References ==
+
+
+== External links ==
+Fox D. "Dig Deeper". Conservation in Practice. 7 (3): 1521. 
+Taylor, P.D. and Wilson, M.A., 2003. Palaeoecology and evolution of marine hard substrate communities. Earth-Science Reviews 62: 1-103. wooster.edu

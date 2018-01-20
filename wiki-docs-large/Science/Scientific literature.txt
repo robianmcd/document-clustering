@@ -1,0 +1,84 @@
+For a broader class of literature, see Academic literature.
+
+Scientific literature comprises scholarly publications that report original empirical and theoretical work in the natural and social sciences, and within an academic field, often abbreviated as the literature. Academic publishing is the process of contributing the results of one's research into the literature, which often requires a peer-review process. Original scientific research published for the first time in scientific journals is called the primary literature. Patents and technical reports, for minor research results and engineering and design work (including computer software), can also be considered primary literature. Secondary sources include review articles (which summarize the findings of published studies to highlight advances and new lines of research) and books (for large projects or broad arguments, including compilations of articles). Tertiary sources might include encyclopedias and similar works intended for broad public consumption.
+
+
+== Types of scientific publications ==
+Scientific literature can include the following kinds of publications:
+scientific articles published in scientific journals
+patents specialized for science and technology (for example, biological patents and chemical patents)
+books wholly written by one or a small number of co-authors
+edited volumes, where each chapter is the responsibility of a different author or set of authors, while the editor is responsible for determining the scope of the project, keeping the work on schedule, and ensuring consistency of style and content
+presentations at academic conferences, especially those organized by learned societies
+government reports such as a forensic investigation conducted by a government agency such as the NTSB
+scientific publications on the World Wide Web
+books, technical reports, pamphlets, and working papers issued by individual researchers or research organizations on their own initiative; these are sometimes organised into a series
+blogs and science forums
+The significance of these different components of the literature varies between disciplines and has changed over time. As of 2006, peer-reviewed journal articles remain the predominant publication type, and have the highest prestige. However, journals vary enormously in their prestige and importance, and their status can influence the visibility and impact of the studies they publish. The significance of books, also called research monographs, depends on the subject. Generally books published by university presses are usually considered more prestigious than those published by commercial presses. The status of working papers and conference proceedings depends on the discipline; they are typically more important in the applied sciences. The value of publication as a preprint or scientific report on the web has in the past been low, but in some subjects, such as mathematics or high energy physics, it is now an accepted alternative.
+
+
+== Scientific article ==
+
+
+=== Preparation ===
+The actual day-to-day records of scientific information are kept in research notebooks or logbooks. These are usually kept indefinitely as the basic evidence of the work, and are often kept in duplicate, signed, notarized, and archived. The purpose is to preserve the evidence for scientific priority, and in particular for priority for obtaining patents. They have also been used in scientific disputes. Since the availability of computers, the notebooks in some data-intensive fields have been kept as database records, and appropriate software is commercially available.
+The work on a project is typically published as one or more technical reports, or articles. In some fields both are used, with preliminary reports, working papers, or preprints followed by a formal article. Articles are usually prepared at the end of a project, or at the end of components of a particularly large one. In preparing such an article vigorous rules for scientific writing have to be followed.
+
+
+=== Clear communication and impact factor ===
+
+Often, career advancement depends upon publishing in high-impact journals, which, especially in hard and applied sciences, are usually published in English. Consequently, scientists with poor English writing skills are at a disadvantage when trying to publish in these journals, regardless of the quality of the scientific study itself. Yet many international universities require publication in these high-impact journals by both their students and faculty. One way that some international authors are beginning to overcome this problem is by contracting with freelance medical copy editors who are native speakers of English and specialize in ESL (English as a second language) editing to polish their manuscripts' English to a level that high-impact journals will accept.
+
+
+=== Structure and style ===
+
+A scientific article has a standardized structure, which varies only slightly in different subjects. Although the IMRAD structure emphasizes the organization of content and in scientific journal articles, each section (Introduction, Methods, Results, and Discussion) has unique conventions for scientific writing style.
+Ultimately, it is not the format that is important, but what lies behind it--the content. However, several key formatting requirements need to be met:
+The title attracts readers' attention and informs them about the contents of the article. Titles are distinguished into three main types: declarative titles (state the main conclusion), descriptive titles (describe a paper's content), and interrogative titles (challenge readers with a question that is answered in the text). Some journals indicate, in their instructions to authors, the type (and length) of permitted titles.
+The names and affiliations of all authors are given. In the wake of some scientific misconduct cases, publishers often require that all co-authors know and agree on the content of the article.
+An abstract summarizes the work (in a single paragraph or in several short paragraphs) and is intended to represent the article in bibliographic databases and to furnish subject metadata for indexing services.
+The context of previous scientific investigations should be presented, by citation relevant documents in the existing literature, usually in a section called an "Introduction".
+Empirical techniques, laid out in a section usually called "Materials and Methods", should be described in such a way that a subsequent scientist, with appropriate knowledge of and experience in the relevant field, should be able to repeat the observations and know whether he or she has obtained the same result. This naturally varies between subjects, and does not apply to mathematics and related subjects.
+Similarly, the results of the investigation, in a section usually called "Results", data should be presented in tabular or graphic form (image, chart, schematic, diagram or drawing). These display elements should be accompanied by a caption and discussed in the text of the article.
+Interpretation of the meaning of the results is usually addressed in a "Discussion" or "Conclusions" section. The conclusions drawn should be based on the new empirical results while taking established knowledge into consideration, in such a way that any reader with knowledge of the field can follow the argument and confirm that the conclusions are sound. That is, acceptance of the conclusions must not depend on personal authority, rhetorical skill, or faith.
+Finally, a "References" or "Literature Cited" section lists the sources cited by the authors.
+
+
+== Peer review ==
+
+Though peer review and the learned journal format are not themselves an essential part of scientific literature, they are both convenient ways of ensuring that the above fundamental criteria are met. They are essentially a means of quality control, a term which also encompasses other means towards the same goal.
+The "quality" being referred to here is the scientific one, which consists of transparency and repeatability of the research for independent verification, the validity of the conclusions and interpretations drawn from the reported data, overall importance for advance within a given field of knowledge, novelty, and in certain fields applicability as well. The lack of peer review is what makes most technical reports and World Wide Web publications unacceptable as contributions to the literature. The relatively weak peer review often applied to books and chapters in edited books means that their status is also second-tier, unless an author's personal standing is so high that prior achievement and a continued stake in one's reputation within the scientific community signals a clear expectation of quality.
+The emergence of institutional digital repositories where scholars can post their work as it is submitted to a print-based journal has taken formal peer review into a state of flux. Though publicizing a preprint online does not prevent it from being peer reviewed, it does allow an unreviewed copy to be widely circulated. On the positive side this change has led to faster dissemination of novel work within the scientific community; on the negative it has made it more difficult to discern a valid scientific contribution from the unmeritorious.
+Increasing reliance on abstracting services, especially on those available electronically, means that the effective criterion for whether a publication format forms part of the established, trusted literature is whether it is covered by these services; in particular, by the specialised service for the discipline concerned such as Chemical Abstracts Service, and by the major interdisciplinary services such as those marketed by the Institute for Scientific Information.
+
+
+== Ethics ==
+The transfer of copyright from author to publisher, used by some journals, can be controversial because many authors want to propagate their ideas more widely and re-use their material elsewhere without the need for permission. Usually an author or authors circumvent that problem by rewriting an article and using other pictures. Some publishers may also want publicity for their journal so will approve facsimile reproduction unconditionally; other publishers are more resistant.
+In terms of research publications, a number of key issues include and are not restricted to:
+Honesty. Honesty and integrity is a duty of each author and person, expert-reviewer and member of journal editorial boards.
+Review process. The peer-review process contributes to the quality control and it is an essential step to ascertain the standing and originality of the research.
+Ethical standards. Recent journal editorials presented some experience of unscrupulous activities.
+Authorship. Who may claim a right to authorship? In which order should the authors be listed?
+
+
+== History ==
+
+The first recorded editorial pre-publication peer-review occurred in 1665 by the founding editor of Philosophical Transactions of the Royal Society, Henry Oldenburg.
+Technical and scientific books were a specialty of David Van Nostrand, and his Engineering Magazine re-published contemporary scientific articles.
+
+
+== Footnotes ==
+
+
+== See also ==
+Acknowledgment index
+Citation index
+Digital object identifier
+Open access (publishing)
+Grey literature
+UKSG
+Scientific communication
+
+
+== References ==
+Robert G. Bartle (1990) "A brief history of the mathematical literature" from American Mathematical Society.

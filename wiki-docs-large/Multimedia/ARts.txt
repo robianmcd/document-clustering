@@ -1,0 +1,22 @@
+aRts (which stands for analog real time synthesizer) is an audio framework that is no longer under development. It was best known for previously being used in K Desktop Environment 2 and 3 to simulate an analog synthesizer.
+A key component of aRts was the sound server which mixes several sound streams in realtime. The sound server, called artsd (d for daemon), was also utilized as the standard sound server for K Desktop Environment 23. However, the sound server was not dependent on K Desktop Environment and can be used in other projects. It was a direct competitor to PulseAudio, another sound server, and an indirect competitor to the Enlightened Sound Daemon (ESD). It is now common to use PulseAudio instead of artsd.
+The aRts platform also includes aRts Builder  an application for building custom layouts and configurations for audio mixers, sequencers, synthesizers and other audio schema via a user-friendly graphical user interface. aRts is free software, distributed under the terms of the GNU General Public License.
+
+
+== End of project ==
+On December 2, 2004 aRts' creator and primary developer Stefan Westerfeld announced he was leaving the project due to a variety of fundamental development and technical issues with aRts.
+In KDE Software Compilation 4 developers chose to replace aRts with a new multimedia API known as Phonon. Phonon provides a common interface on top of other systems, usually VLC media player or GStreamer, to avoid being dependent on a single multimedia framework.
+
+
+== See also ==
+
+PulseAudio  prevailing sound server for desktop use
+JACK Audio Connection Kit  prevailing sound server for professional audio production
+
+
+== References ==
+
+
+== External links ==
+Official website  The aRts project website
+The aRts project website at the Wayback Machine (archive index)

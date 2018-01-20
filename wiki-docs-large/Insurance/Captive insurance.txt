@@ -1,0 +1,53 @@
+Captive insurance is an alternative to self-insurance in which a parent group or groups create a licensed insurance company to provide coverage for itself. The main purpose of doing so is to avoid using traditional commercial insurance companies, which have volatile pricing, and may not meet the specific needs of the company. By creating their own insurance company, the parent company can reduce their costs, insure difficult risks, have direct access to reinsurance markets, and increase cash flow. When a company creates a captive they are indirectly able to evaluate the risks of subsidiaries, write policies, set premiums and ultimately either return unused funds in the form of profits, or invest them for future claim payouts. Captive insurance companies sometimes insure the risks of the group's customers. This is an alternative form of risk management that is becoming a more practical and popular means through which companies can protect themselves financially while having more control over how they are insured.
+There are many variations of how captives can be set up, which can be broken into two categories. The first category is known as non-sponsored in which the company is the creator and beneficiary. Within that category the most common are single-parent or pure, group and association. The second category is sponsored in which the captive is owned and controlled by another company that allows other companies to rent insurance. This category includes Protected Cell Captive Insurers and Rental Captives.
+
+
+== Origin of term ==
+The term "captive" was coined by the "father of captive insurance", Frederic M. Reiss, while he was bringing his concept into practice for his first client, the Youngstown Sheet & Tube Company, in Ohio in the 1950s. The company had a series of mining operations, and its management referred to the mines whose output was put solely to the corporation's use as captive mines. When Reiss helped the company incorporate its own insurance subsidiaries, they were called captive insurance companies because they wrote insurance exclusively for the captive mines. Reiss continued to use the term: the policyholder owns the insurance company i.e. the insurer is captive to the policyholder. If the captive insures its own parent and affiliates, it is called a pure captive. If it insures just one type of industry (e.g. energy industries), it is called a homogeneous captive. A captive insurance company can also insure a group of diverse companies; this is called a heterogeneous captive.
+
+
+== Domicile ==
+Captives are licensed by many jurisdictions. The captive's primary jurisdiction is known as its domicile. The captives are then regulated by local insurance authority agencies, which require that captives have enough money to pay claims as well as maintain a minimum surplus. Most captive insurers are based "offshore", in places such as Gibraltar, Mauritius, Belize, Bermuda, The Cayman Islands, Ireland, Guernsey, Luxembourg, Barbados, Malta, The Bahamas, Singapore, Anguilla, the British Virgin Islands, Qatar Financial Centre, Dubai International Financial Centre and Jersey in the Channel Islands.
+Bermuda is the world's leading offshore captive domicile. The onshore regulatory burden and the cost of operating either a U.S.-based or Lloyd's-based captive in the early 1960s drove Reiss to seek out a jurisdiction that would allow his captive concept to flourish. After much investigation, he chose Bermuda, due to its geographical location, clean reputation and status as a British Dependent Territory, which avoided the risks and uncertainties often experienced by international businesses operating in politically unstable and unaccountable jurisdictions. Bermuda's captives are predominantly owned by large U.S. corporations. The Cayman Islands is the second largest licensing jurisdiction in terms of the number of captives licensed. Vermont, in the United States, is second in terms of insurance company assets but third in terms of captives licensed. Healthcare corporations prefer Bermuda, due to the ease of claim payment provided by the regulatory environment.
+Luxembourg is the largest captive reinsurance domicile in the EU.
+A recent trend has various states in the United States revising their regulations to be more attractive to captive insurance companies. For example, Oregon has removed premium taxes from captives, instead charging a $5,000 annual fee. In the United States, Vermont is home to more captive insurers than any other U.S. state, with nearly 900 licensed captive companies as of August 2009.. In past years, Anguilla was a fast growing offshore domicile which ended in 2013. More recently, Anguilla along with other offshore domiciles have seen few new formations and many liquidations and transfers. As with the BVI, ever changing applications of the regulations and the departures of well regarded regulators have ended Anguilla as a domiciles for new formations. Meanwhile, Montana, Delaware, Tennessee, and Utah have been the fastest growing US domiciles. In 2013, Texas began allowing captives.
+
+
+== Business lines ==
+Captives can cover lines of business, such as workers' compensation, that have relatively predictable claim rates. They can access the reinsurance market to lay off (transfer) risks that they do not wish to accept: this may include product liability, general and professional liability and directors' and officers' liability. Vehicle insurance, both property damage and third party liability of corporate fleets and vehicles, is also quite commonly covered.
+
+
+== Regulation ==
+Captives may be licensed to write some lines of business directly. In other cases, such as workers' compensation in the U.S., for example, the business must initially be written by another insurer, under its insurance licence, which then reinsures it (lays it off) to the captive. The original insurer retains a fee, usually somewhere between 5% and 15%, to provide this service. Premiums paid to captives are tax deductible, provided the terms of the policy (including the premium amount) are reasonable. A captive cannot arbitrarily set the premium amount simply to generate a deduction for the parent. In most situations, the captive carrier should be able to demonstrate its premium generating process (underwriting).
+In the European Union, a new set of regulatory requirements (Solvency II) is planned with additional restrictions and responsibilities for captives and reinsurance companies. Some European captives ask for simplified regulation.
+
+
+== Captive manager ==
+Reiss created the first captive management company, International Risk Management Limited (IRML), in Bermuda in 1962 to provide the administration of his client's captives (this is now part of the Aon Corporation). Most captive management is usually outsourced to a captive manager located in the jurisdiction that holds the primary license for the captive.
+In the U.S., most captive managers are small administrative services providers. They dont draft insurance policies, which is generally the function of a senior insurance or corporate lawyer; they dont price policies, which is done by a property and casualty insurance underwriter; and they dont purport to be responsible for state or federal tax issues, which is what a tax lawyer does. Other captive management firms provide a full turnkey service to include all aspects of forming and managing a captive insurer on an ongoing basis, which would include professionals that understand the insurance, tax, and legal aspects of a captive. The middle market is the area of growth for captive managers because more than 90% of Fortune 500 companies already do captives, according to Capstone Associated Services Ltd., a comprehensive manager of small captive insurers with over 140 captives formed for the middle market in the last 15+ years.
+Captive insurance companies are creatures of the Internal Revenue Code. Over 75% of the worlds captives are associated with the United States because these insurance arrangements are encouraged under the Internal Revenue Code. Because captives are sophisticated tax structures (having been the subject of dozens of cases and rulings by the IRS, the Tax Court and various appellate courts over the past 70 years) captive owners often engage tax professionals in addition to captive managers that simply provide administrative services.
+
+
+== Micro captives ==
+Over 90 percent of Fortune 1000 companies and many successful middle market businesses have captives. Over half of all property and casualty premiums that are written, are written through captives.
+The Section 831(b) or "small" P&C captive, also known as a "micro captive" is used by midsize companies looking for cost-effective ways to transfer risk. Captive experts say an 831(b) introduces middle market companies to alternative risk transfer and its benefits, providing this class of insurance buyers a valuable cost-saving tool long utilized by Fortune 1000 companies. The Section 831(b) captive or small property and casualty captive is one of the most popular choices for middle market companies.
+
+
+== Sheltering income from taxes ==
+Captive insurance policies can be "designed so that the risks they insure are so unlikely that the captives will never pay out a claim and all those premiums will go back to the business owners or their heirs with little or no tax."
+
+
+== Main captive domiciles ==
+Not listed above by Business Insurance News is Montana with 150 captives as of December 2013 and Anguilla which has more than 300 captives as of December 2012. Delaware does not report.
+*2008 Updated stats. Source: Business Insurance News Captives 2008
+**2008 Updated stats. Source: https://web.archive.org/web/20080821225209/http://www.captive.utah.gov/hotnews.html
+#2007 Updated stats. Source: LOFSA 2007 Annual Report
+
+
+== See also ==
+Catastrophe bond
+Reinsurance
+Reinsurance sidecar
+
+
+== References ==

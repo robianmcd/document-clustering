@@ -1,0 +1,34 @@
+The law of general average is a legal principle of maritime law according to which all parties in a sea venture proportionally share any losses resulting from a voluntary sacrifice of part of the ship or cargo to save the whole in an emergency (for instance, when the crew throws some cargo overboard to lighten the ship in a storm).
+In the exigencies of hazards faced at sea, crew members often have precious little time in which to determine precisely whose cargo they are jettisoning. Thus, to avoid quarreling that could waste valuable time, there arose the equitable practice whereby all the merchants whose cargo landed safely would be called on to contribute a portion, based upon a share or percentage, to the merchant or merchants whose goods had been tossed overboard to avert imminent peril. While general average traces its origins in ancient maritime law, still it remains part of the admiralty law of most countries.
+
+
+== Ancient, Classical, Medieval, and Early Modern times ==
+A form of what is now called general average was included in the Lex Rhodia, the Rhodes Maritime Code of circa 800 BC. Julius Paulus Prudentissimus quoted from the law around the turn of the 3rd century, and these quotes are preserved, and an excerpt is included in Justinian's 6th-century Digest of Justinian (part of the Corpus Juris Civilis), although the Lex Rhodia is itself now lost.
+After the fall of Rome, formal maritime law fell into disuse in Europe (maritime law scholar Jean Marie Pardessus suggests that the Digest of Justinian may have been entirely lost until a copy was discovered in Amalfi around 1135), although informal arrangements similar to the basic concept of general average was probably often followed as a practical matter. The medieval Rolls of Olron, probably a collection of judgments from a court in Bordeaux, provided (along with much else) guidance on what is now called general average, and was taken as authoritative in many parts of Europe: the Laws of Wisbuy, as well as laws of Flanders, the Hanseatic League, Amsterdam, Genoa, and Catalonia, appear to have been copied from the Rolls of Olron.
+An ordinance published by King Louis XIV of France in 1681 influenced laws in the rest of Europe, with the definition used in the French code followed in similar terms in codes and ordinances promulgated in that century and the next in Hamburg, Prussia, Denmark, Sweden, Spain, Amsterdam, Rotterdam and Middelburg.
+
+
+== York Antwerp Rules of 1890 ==
+The first codification of general average was the York Antwerp Rules of 1890. American companies accepted it in 1949. General average requires three elements which are clearly stated by Justice Grier in Barnard v. Adams:
+"1st. A common danger: a danger in which vessel, cargo and crew all participate; a danger imminent and apparently 'inevitable,' except by voluntarily incurring the loss of a portion of the whole to save the remainder."
+"2nd. There must be a voluntary jettison, jactus, or casting away, of some portion of the joint concern for the purpose of avoiding this imminent peril, periculi imminentis evitandi causa, or, in other words, a transfer of the peril from the whole to a particular portion of the whole."
+"3rd. This attempt to avoid the imminent common peril must be successful".
+The York-Antwerp Rules remain in effect, having been modified and updated several times since their 1890 introduction.
+
+
+== Modern day ==
+
+Despite advances in maritime transport technology, general average continues to come into play. The MV Hyundai Fortune declared General Average following an explosion and fire in 2006 off the coast of Yemen. The M/V MSC Sabrina declared general average in effect after grounding in the Saint Lawrence river on 8 March 2008. The owners of the Hanjin Osaka declared general average following an explosion in the ship's engine room on 8 January 2012.
+
+
+== References ==
+
+
+== Further reading ==
+Cornah, Richard; Reeder, John (2013). Cooke, Julian, ed. Lowndes & Rudolf: The Law of General Average and the York-Antwerp Rules (14th ed.). Sweet & Maxwel. ISBN 978-0414028463. 
+Rose, Francis (2005). General Average: Law and Practice. Maritime and Transport Law Library (2nd ed.). Informa Law (Routledge). ISBN 978-1843114185. 
+
+
+== External links ==
+Definition of General Average, Duhaime's Law Dictionary
+ Carver, Thomas Gilbert (1911). "Average". In Chisholm, Hugh. Encyclopdia Britannica. 3 (11th ed.). Cambridge University Press.

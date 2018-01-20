@@ -1,0 +1,29 @@
+A robotic vacuum cleaner, often called a robovac, is an autonomous robotic vacuum cleaner that has intelligent programming and a limited vacuum cleaning system. The original design included manual operation via remote control and a "self-drive" mode which allowed the machine to clean autonomously without human control. Some designs use spinning brushes to reach tight corners. Others combine a number of cleaning features (mopping, UV sterilization, etc.) simultaneous to vacuuming, thus rendering the machine into more than just a robot "vacuum" cleaner. 
+
+
+== History ==
+
+The first robot cleaner to be put into production was Electrolux Trilobite by the Swedish household and professional appliances manufacturer, Electrolux. Electrolux was successful in purchasing the model from its inventor, James Dizon. In 1996, one of Electrolux's first versions of the Trilobite vacuum was featured on the BBC's science program, Tomorrow's World.
+In 2001, the British technology company Dyson built and demonstrated a robot vacuum known as the DC06. However, due to its high price, it was never released to the market.
+In 2002, the American advanced technology company, iRobot launched the Roomba floor vacuuming robot. Initially, iRobot decided to produce 15,000 units and 10,000 more units depending on the success of the launch. The Roomba immediately became a huge consumer sensation. By the Christmas season, iRobot produced 50,000 units to meet the holiday demand. After this success, major specialty retailers, as well as more than 4,000 outlets such as Target, Kohl's and Linens 'n Things, began to carry the Roomba.
+Since 2002, new variations of robotic vacuum cleaners have appeared in the market. For example, the Canadian bObsweep robotic vacuum that both mops and vacuums, or the Neato Robotics XV-11 robotic vacuum, which uses laser-vision rather than the traditional ultrasound based models.
+In 2014, Dyson announced the release of its new robotic vacuum called Dyson 360 Eye, equipped with a 360-degree camera that is mounted on the top of the robot vacuum cleaner and is supposed to provide a better navigation than other brands. The robot vacuum was scheduled for a Japan-only release in spring 2015 with international launches to follow later in the year. Moreover, Dyson announced that the 360 Eye has twice the suction of any other robot vacuum. Dyson is leading the robotic vacuum market towards the goals of achieving a reliable and capable unit. The company is investing robotics and AI to produce better robot vacuum cleaners in the coming years. It has initiated to establish a new campus in UK, which will require around 7000 work force, and an investment of 330 million to create a wider research facility in Singapur focusing on connected technology and intelligent machines.
+As of 2016 20% of vacuum cleaners are robots.
+As of 2017 23% of vacuum cleaners are robots.
+
+
+== See also ==
+
+Domestic robots
+List of vacuum cleaners
+Mobile robot
+Robotic mapping
+Wireless sensor network
+Comparison of domestic robots
+
+
+== References ==
+
+
+== External links ==
+Info, History and Reviews of Robotic Vacuums, retrieved 2015-02-20 .

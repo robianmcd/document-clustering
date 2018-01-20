@@ -1,0 +1,80 @@
+The Defense Base Act (DBA) (ch. 357 of the 77th United States Congress, 55 Stat. 622, enacted August 16, 1941, codified at 42 U.S.C.  16511654) is an extension of the federal workers' compensation program that covers longshoremen and harbor workers, the Longshore and Harbor Workers' Compensation Act 33 U.S.C.  901950. The DBA covers persons employed at United States defense bases overseas. The DBA is designed to provide medical treatment and compensation to employees of defense contractors injured in the scope and course of employment. The DBA is administered by the United States Department of Labor.
+
+
+== Who is covered under the DBA ==
+The Defense Base Act covers the following employment activities:
+Work for private employers on U.S. military bases or on any lands used by the U.S. for military purposes outside of the United States, including those in U.S. Territories and possessions;
+Work on public work contracts with any U.S. government agency, including construction and service contracts in connection with national defense or with war activities outside the United States;
+Work on contracts approved and funded by the U.S. under the Foreign Assistance Act, which among other things provides for cash sale of military equipment, materials, and services to its allies, if the contract is performed outside of the United States;
+Work for American employers providing welfare or similar services outside the United States for the benefit of the Armed Services, e.g. the United Service Organizations (USO).
+Employees of any subcontractors of a contract involved in work detailed above, it is applicable to both US and local national employees.
+Generally, workers employed by American contractors performing public works for the U.S. government in U.S. territories, at U.S. military bases located outside the continental United States and in support of military aid programs within allied nations. Also, persons who are employed overseas by welfare and morale projects such as the American Red Cross, the U.S.O. and The Salvation Army are generally covered. Public Works is defined in 42 U.S.C.  1651
+There are severe penalties for firms and contractors that are required to hold DBA Insurance but fail to do so.
+
+
+== Technical requirements and filings ==
+The initial technical requirement of the Act is to report the injury immediately to ones immediate supervisor. Notice of the injury should also be given in writing using form LS 201. Once that is done, medical treatment is generally offered. It is the employees responsibility to file a claim form LS 203 with the Office of Workers' Compensation Programs (OWCP). Section 13 requires filing of a claim within one year of the date of injury or the last payment of compensation, whichever is later.  For claims involving occupational injury, the deadline for filing is two years from the date the employee is aware of the connection between the illness and the employment.  Forms utilized in DBA claims may be accessed from the Department of Labor at the Longshore and Harbor Workers' Forms Page.
+The complications and challenges of submitting a claim can be time consuming. The Department of Labor is the agency who supervises the Defense Base Act. One of the largest insurance companies who provides Defense Base Act insurance is AIG, one of the largest companies receiving federal aid during the banking crisis of 2008-09. For those who are considering working for companies to include Dyncorp or MPRI, the Defense Base Act provisions may be the only remedy if you are injured while working outside the United States.
+Claims submitted through the Defense Base Act of 1941 may take several years or more. Persons should use extreme care with the knowledge of challenges in attempting to seek remedies from working for Department of Defense or Department of State contractors.
+
+
+== Payment of compensation ==
+There is a three-day waiting period (the period of time one must wait before compensation is due) under the LHWCA. Thereafter, if an injury is serious enough to prevent the employee from returning to work, the employer (or its insurer) must pay compensation to the injured worker. Under Section 10 of the Act, the amount of compensation paid is generally calculated by taking an employees wages from the year prior to the injury and dividing by 52. This is known as the average weekly wage (AWW).
+If the employee has worked in the same job for the entire period, the calculation is simple enough. If the employee has not worked substantially the whole year in the same type of employment, alternate methods may be used to determine AWW. A similar employee's wages can be used, or if 33 U.S.C.  910 Sections (a) or (b) cannot be fairly applied, there are several alternatives such as taking a daily wage and multiplying it by the number of days per week ordinarily worked. Courts are split on the issue of whether lower stateside earnings should be used to determine AWW and compensation rated.
+Once the average weekly wage (AWW) is established, this is multiplied by two-thirds and this figure, the compensation rate (CR) is the amount of money the injured worker receives for each week they are disabled. The maximum rate changes periodically. Generally, DBA insurers pay every two weeks. The Act provides for annual cost of living or inflation increases for benefits which are permanent and total.
+Benefits are generally paid until the injured worker returns to work or is capable of returning to work and suitable work is available. For example, if an injured worker fully recovers from an injury and can return to work, total disability benefits end. Also, even if an injured worker cannot return to his regular job due to a physicians restrictions, compensation ends if the employer offers the employee suitable work. Short of offering a job, the employer/insurer may stop compensation for total disability if it can prove suitable jobs exist in the employees commuting area. If those jobs do not meet or exceed the injured worker's previously established AWW, the employer/carrier may have to pay either partial disability benefits or a "scheduled award," depending on the nature of the original injury.
+There are certain injuries subject to a scheduled award. For example, an injured worker with an arm injury who is at maximum medical improvement (MMI) with a 10% permanent impairment rating (and work is available) is entitled to a scheduled awardbut no further disability benefits unless there is a change in condition. However, a person with a back injury at MMI would still be entitled to total disability benefits if they can prove they made a diligent but unsuccessful attempt to find suitable work. This is normally a litigated issue, and many scenarios may come into play. For a list of scheduled injuries, see 33 U.S.C.  908.
+Maximum medical improvement is a medical term that means the employee has recovered from injuries as much as can be expected, and medical providers have done everything they can. If the employee reached this point and still cannot work, they may be entitled to permanent and total (PTD) disability benefits. These benefits are generally reserved for those injured workers who will most likely be unable to work for the rest of their lives. This benefit carries with it an automatic cost of living allowance.
+
+
+== Medical treatment ==
+Entitlement and scope of medical treatment is described in Section 7 of the Longshore & Harbor Workers Compensation Act (LHWCA), That Section provides:
+(a) General requirement The employer shall furnish such medical, surgical, and other attendance or treatment, nurse and hospital service, medicine, crutches, and apparatus, for such period as the nature of the injury or the process of recovery may require.
+(b) Physician selection; administrative supervision; change of physicians and hospitals The employee shall have the right to choose an attending physician authorized by the Secretary to provide medical care under this chapter as hereinafter provided. If, due to the nature of the injury, the employee is unable to select his physician and the nature of the injury requires immediate medical treatment and care, the employer shall select a physician for him. The Secretary shall actively supervise the medical care rendered to injured employees, shall require periodic reports as to the medical care being rendered to injured employees, shall have authority to determine the necessity, character, and sufficiency of any medical aid furnished or to be furnished, and may, on his own initiative or at the request of the employer, order a change of physicians or hospitals when in his judgment such change is desirable or necessary in the interest of the employee or where the charges exceed those prevailing within the community for the same or similar services or exceed the providers customary charges. Change of physicians at the request of employees shall be permitted in accordance with regulations of the Department of Labor, Secretary.
+
+
+== Settlement and attorneys' fees ==
+Section 8(i) provides a mechanism under which all or part of a claim under the DBA may be settled. Settlements are voluntary andone party cannot compel the other to settle. Like most other workers compensation systems, there are no damages such as pain and suffering. The amount of the settlement depends on what the employer/insurer could expect to pay if the case is not settled. Also, while there is a program where an Administrative Law Judge (ALJ) will mediate a case for the parties, there is no provision in the Act that allows an injured worker or employer/insurer to present the case before an ALJ to determine its value.
+The parties to a claim may be represented by an attorney, or a qualified non-attorney. All attoneys' fee/attorneys'fees and expenses must be approved by the Department of Labor. DBA attorneys are paid based on an hourly rate and level of success on behalf of their clients, and contingency fees are not permitted. Any fees are generally paid after litigation or at settlement. Attorneys fees can be assessed against the Claimant, or paid by the employer/insurer in certain circumstances.  Procedurally, after a hearing or lump sum settlement, if the injured worker prevails, their attorney submits a Fee Petition to the Department of Labor for approval. The employer/insurer is given the opportunity to respond to the petition. If a claim is settled, the fee is generally paid by the insurer and may be subject to negotiation with the insurer as part of the settlement package. These fees are also subject to approval of either the Administrative Law Judge or the District Director of the Office of Workers Compensation Programs (OWCP).
+
+
+== History ==
+Defense Base Act
+The Defense Base Act, P.L.77-208, was enacted in 1941 and extended workerscompensation coverage under the Longshore and Harbor Workers Compensation Act (LHWCA) to persons working on American military bases that were either acquired by the United States from foreign countries or that were located outside of the continental United States. Coverage was extended to public works contractors working outside of the United States in 1942 with the enactment of the War Hazards Compensation Act, P.L. 77-784, which also established the War Hazards Compensation Act (WHCA) program. The most significant amendments to the DBA were enacted in 1958 and extended coverage to non-citizens, to persons working on projects funded under the Mutual Security Act of 1954, and to persons working to provide morale and welfare services, such as through the United Service Organization (USO).
+Defense Base Act (DBA) provides the equivalent of workers' compensation for civilian contractors working in contingency operations in overseas countries such as Iraq and Afghanistan. "As designated by the Secretary of Defense, Operation Enduring Freedom (OEF) in Afghanistan and Operation Iraqi Freedom (OIF) in Iraq are both contingency operations. The Federal Acquisitions Regulations (FAR) 2.101 defines a Contingency Operation (10 U.S.C. 101(a) (13)) to be a military operation that:
+
+"(1) Is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
+(2) Results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12305, or 12406 of 10 U.S.C., Chapter 15 of 10 U.S.C, or any other provision of law during a war or during a national emergency declared by the President or Congress."
+DBA provides benefits in the event that civilian contractors are injured, killed, or kidnapped in the course of their work for US government agencies such as the various branches of the Department of Defense (DOD), U.S. Agency for International Development, (USAID), or the State Department.
+According to government documents, the DBA "program was created to provide workers' compensation protections for categories of workers who were outside the jurisdiction of other state or federal workers' compensation systems. The extensions to the Longshore and Harbor Workers' Compensation Act (LHWCA) were enacted to provide coverage to classes of workers who are not covered under any other statutes."
+
+
+== Contingency contracting ==
+According to the US Army Standard Procurement System website: "Contingency contracting is direct contracting support to tactical and operational forces engaged in the full spectrum of armed conflict and military operations (both domestic and overseas), including war, other military operations, and disaster or emergency relief."
+Contingency contracting, by its very nature of working in close proximity to the battlefield, brings high risks. Civilian contractors deliver much needed supplies and services and, in doing so, often find themselves situated closer and closer to hostilities as competitive outsourcing through the US government's A-76 program increasingly determines the most cost-effective way to fulfill government operations is through the private sector.
+Susie Dow explains in her three part series on Iraq, Contingency Contracting and the Defense Base Act that not all contingency contractors are actually covered by DBA insurance. And so in the event of kidnapping, beheading, injury or murder, there is not support for the contractor or his/her family. At best, the implementation of the DBA requiring civilian contractors to be insured has been less than uniform and often inconsistent.: Four basic laws and their amendments define or influence the coverage required under the Defense Base Act as administered by the US Department of Labor.
+
+Longshore and Harbor Workers' Compensation Act of 1927
+Defense Base Act of 1941
+Mutual Security Act of 1954
+Dayton Peace Accords of 1995 
+
+And, according to the Department of Labor, by July 2006, just three major carriers provide most of the DBA insurance coverage: ACE USA Companies, American International Group (AIG) Companies, and CNA. The Department of Labor has no authority to regulate insurance premium rates. All authorized carriers are regulated by the states in which they operate.
+
+
+== See also ==
+42 U.S.C.  16511654
+33 U.S.C.  910
+
+
+== References ==
+
+
+== External links ==
+US Department of Labor Defense Base Act FAQ
+"Longshore and Harbor Workers' Compensation". Legal Information Institute, Cornell University Law School.
+"US Pamphlet LS-560" Longshore and Harbor Workers Information Relating to Defense Base Act
+Defense Base Act Information and DBA Insurance Coverage Requirements
+Defense Base Act and DBA Insurance FAQ
+DBA Insurance Online Quotation Form
+Defense Base Act Law and Penalties

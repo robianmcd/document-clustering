@@ -1,0 +1,33 @@
+The electronics industry, especially meaning consumer electronics, emerged in the 20th century and has now become a global industry worth billions of dollars. Contemporary society uses all manner of electronic devices built in automated or semi-automated factories operated by the industry. Products are assembled from integrated circuits, principally by photolithography of printed circuit boards.
+The size of the industry and the use of toxic materials, as well as the difficulty of recycling has led to a series of problems with electronic waste. International regulation and environmental legislation has been developed in an attempt to address the issues.
+
+
+== History ==
+The electric power industry began in the 19th century and this led to the development of all manner of inventions. Gramaphones were an early invention and this was followed by radio transmitters and receivers and televisions. The first digital computers were built in the 1940s with a slow development in technology and total sales. In the 1990s the personal computer became popular. A large part of the electronics industry is now involved with digital technology.
+The industry now employs large numbers of electronics engineers and electronics technicians to design, develop, test, manufacture, install, and repair electrical and electronic equipment such as communication equipment, medical monitoring devices, navigational equipment, and computers. Common parts manufactured are connectors, system components, cell systems, computer accessories, and these are made of alloy steel, copper, brass, stainless steel, plastic, steel tubing and other materials.
+
+
+== Consumer electronics ==
+Consumer electronics are products intended for everyday use, most often in entertainment, communications and office productivity. Radio broadcasting in the early 20th century brought the first major consumer product, the broadcast receiver. Later products include personal computers, telephones, MP3 players, audio equipment, televisions, calculators, GPS automotive electronics, digital cameras and players and recorders using video media such as DVDs, VCRs or camcorders. Increasingly these products have become based on digital technologies, and have largely merged with the computer industry in what is increasingly referred to as the consumerization of information technology.
+The CEA (Consumer Electronics Association) estimated the value of 2007 consumer electronics sales at US$150 billion.
+
+
+== Effects on the environment ==
+Electrical waste contains hazardous but also valuable and scarce materials and up to 60 elements can be found in complex electronics.
+The United States and China are the world leaders in producing electronic waste, each tossing away about 3 million tons each year. China also remains a major e-waste dumping ground for developed countries. The UNEP estimate that the amount of e-waste being produced - including mobile phones and computers - could rise by as much as 500 percent over the next decade in some developing countries, such as India.
+
+Increasing environmental awareness has led to changes in electronics design to reduce or eliminate toxic materials and to reduce energy consumption. The Restriction of Hazardous Substances Directive (RoHS) and Waste Electrical and Electronic Equipment Directive (WEEE) were released by the European Commission in 2002.
+
+
+== See also ==
+Electronic engineering
+Technology
+
+
+== References ==
+
+
+== See also ==
+Joint Electron Device Engineering Council (JEDEC)
+Electronic Industry Citizenship Coalition
+Global Electronics Industry: Poster Child of 21st Century Sweatshops and Despoiler of the Environment?, Garrett Brown

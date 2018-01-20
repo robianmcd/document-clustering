@@ -1,0 +1,114 @@
+Automotive electronics are electronic systems used in road vehicles, such as: engine management, ignition, radio, carputers, telematics, in-car entertainment systems and others. Electronic systems have become an increasingly large component of the cost of an automobile, from only around 1% of its value in 1950 to around 30% in 2010.
+The earliest electronics systems available as factory installations were vacuum tube car radios, starting in the early 1930s. The development of semiconductors after WWII greatly expanded the use of electronics in automobiles, with solid-state diodes making the automotive alternator the standard after about 1960, and the first transistorized ignition systems appearing about 1955.
+The availability of microprocessors after about 1974 made another range of automotive applications economically feasible. In 1978 the Cadillac Seville introduced a "trip computer" based on a 6802 microprocessor. Electronically-controlled ignition and fuel injection systems allowed automotive designers to achieve vehicles meeting requirements for fuel economy and lower emissions, while still maintaining high levels of performance and convenience for drivers. Today's automobiles contain a dozen or more processors, in functions such as engine management, transmission control, climate control,antilock braking, passive safety systems, navigation, and other functions.
+Modern electric cars rely on power electronics for the main propulsion motor control, as well as managing the battery system. Future autonomous cars will rely on powerful computer systems, an array of sensors, networking, and satellite navigation, all of which will require electronics.
+
+
+== Engine electronics ==
+Automotive engine electronics originated from the need to control engines. The first electronic pieces were used to control engine functions and were referred to as engine control units (ECU). As electronic controls began to be used for more automotive applications, the acronym ECU took on the more general meaning of "electronic control unit", and then specific ECU's were developed. Now, ECU's are modular. Two types include engine control modules (ECM) or transmission control modules (TCM).
+A modern car may have up to 100 ECU's and a commercial vehicle up to 40.
+Automotive electronics or automotive embedded systems are distributed systems, and according to different domains in the automotive field, they can be classified into:
+Engine electronics
+Transmission electronics
+Chassis electronics
+Active safety
+Driver assistance
+Passenger comfort
+Entertainment systems
+Electronic Integrated Cockpit systems
+One of the most demanding electronic parts of an automobile is the engine control unit. Engine controls demand one of the highest real time deadlines, as the engine itself is a very fast and complex part of the automobile. Of all the electronics in any car the computing power of the engine control unit is the highest, typically a 32-bit processor.
+It controls such things as:
+In a diesel engine:
+Fuel injection rate
+Emission control, NOx control
+Regeneration of oxidation catalytic converter
+Turbocharger control
+Cooling system control
+Throttle control
+In a gasoline engine:
+Lambda control
+OBD (On-Board Diagnostics)
+Cooling system control
+Ignition system control
+Lubrication system control (only a few have electronic control)
+Fuel injection rate control
+Throttle control
+Many more engine parameters are actively monitored and controlled in real-time. There are about 20 to 50 that measure pressure, temperature, flow, engine speed, oxygen level and NOx level plus other parameters at different points within the engine. All these sensor signals are sent to the ECU, which has the logic circuits to do the actual controlling. The ECU output is connected to different actuators for the throttle valve, EGR valve, rack (in VGTs), fuel injector (using a pulse-width modulated signal), dosing injector and more. There are about 20 to 30 actuators in all.
+
+
+== Transmission electronics ==
+These control the transmission system, mainly the shifting of the gears for better shift comfort and to lower torque interrupt while shifting. Automatic transmissions use controls for their operation, and also many semi-automatic transmissions having a fully automatic clutch or a semi-auto clutch (declutching only). The engine control unit and the transmission control exchange messages, sensor signals and control signals for their operation.
+
+
+== Chassis electronics ==
+The chassis system has a lot of sub-systems which monitor various parameters and are actively controlled:
+ABS - Anti-lock Braking System
+TCS  Traction Control System
+EBD  Electronic Brake Distribution
+ESP  Electronic Stability Program
+
+
+== Passive safety ==
+
+These systems are always ready to act when there is a collision in progress or to prevent it when it senses a dangerous situation:
+Air bags
+Hill descent control
+Emergency brake assist system
+
+
+== Driver assistance ==
+
+Lane assist system
+Speed assist system
+Blind spot detection
+Park assist system
+Adaptive cruise control system
+Pre-collision Assist
+
+
+== Passenger comfort ==
+Automatic climate control
+Electronic seat adjustment with memory
+Automatic wipers
+Automatic headlamps - adjusts beam automatically
+Automatic cooling - temperature adjustment
+
+
+== Infotainment systems ==
+Navigation system
+Vehicle audio
+Information access
+All of the above systems forms an infotainment system. Developmental methods for these systems vary according to each manufacturer. Different tools are used for both hardware and software development.
+
+
+== Electronic Integrated Cockpit systems ==
+These are new generation hybrid ECUs that combine the functionalities of multiple ECUs of Infotainment Head Unit, Advanced Driver Assistance Systems (ADAS), Instrument Cluster, Rear Camera/Parking Assist, Surround View Systems etc. This saves on cost of electronics as well as mechanical/physical parts like interconnects across ECUs etc. There is also a more centralized control so data can be seamlessly exchanged between the systems.
+There are of course challenges too. Given the complexity of this hybrid system, a lot more rigor is needed to validate the system for robustness, safety and security. For example, if the infotainment system's application which could be running an open source Android OS is breached, there could be possibility of hackers to take control of the car remotely and potentially misuse it for anti social activities. Typically so, usage of a hardware+software enabled hypervisors are used to virtualize and create separate trust and safety zones that are immune to each other's failures or breaches. Lot of work is happening in this area and potentially will have such systems soon if not already.
+
+
+== Functional safety requirements ==
+In order to minimize the risk of dangerous failures, safety related electronic systems have to be developed following the applicable product liability requirements. Disregard for, or inadequate application of these standards can lead to not only personal injuries, but also severe legal and economic consequences such as product cancellations or recalls.
+The IEC 61508 standard, generally applicable to electrical/electronic/programmable safety-related products, is only partially adequate for automotive-development requirements. Consequently, for the automotive industry, this standard is replaced by the existing ISO 26262, currently released as a Final Draft International Standard (FDIS). ISO/DIS 26262 describes the entire product life-cycle of safety related electrical/electronic systems for road vehicles. It has been published as an international standard in its final version in November 2011. The implementation of this new standard will result in modifications and various innovations in the automobile electronics development process, as it covers the complete product life-cycle from the concept phase until its decommissioning.
+
+
+== Security ==
+As more functions of the automobile are connected to short- or long-range networks, cybersecurity of systems against unauthorized modification is required. With critical systems such as engine controls, transmission, air bags, and braking connected to internal diagnostic networks, remote access could result in a malicious intruder altering the function of systems or disabling them, possibly causing injuries or fatalities. Every new interface presents a new "attack surface". The same facility that allows the owner to unlock and start a car from a smart phone app also presents risks due to remote access. Auto manufacturers may protect the memory of various control microprocessors both to secure them from unauthorized changes and also to ensure only manufacturer-authorized facilities can diagnose or repair the vehicle. Systems such as keyless entry rely on cryptographic techniques to ensure "replay" or "man-in-the-middle attacks" attacks cannot record sequences to allow later break-in to the automobile. 
+In 2015 the German general automobile club commissioned an investigation of the vulnerabilities of one manufacturer's electronics system, which could have led to such exploits as unauthorized remote unlocking of the vehicle. 
+
+
+== See also ==
+Cellport Systems
+Vetronics
+
+
+== References ==
+
+
+== Further reading ==
+William B. Ribbens and Norman P. Mansour (2003). Understanding automotive electronics (6th ed.). Newnes. ISBN 9780750675994. 
+
+
+== External links ==
+International Automotive Electronics Congress
+Society of Automotive Engineers
+Clemson Vehicular Electronics Laboratory (Automotive Electronics Section)

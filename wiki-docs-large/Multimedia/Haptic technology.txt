@@ -1,0 +1,159 @@
+Haptic or kinesthetic communication recreates the sense of touch by applying forces, vibrations, or motions to the user. This mechanical stimulation can be used to assist in the creation of virtual objects in a computer simulation, to control such virtual objects, and to enhance the remote control of machines and devices (telerobotics). Haptic devices may incorporate tactile sensors that measure forces exerted by the user on the interface.
+Most researchers distinguish three sensory systems related to sense of touch in humans: cutaneous, kinesthetic and haptic. All perceptions mediated by cutaneous and/or kinesthetic sensibility are referred to as tactual perception. The sense of touch may be classified as passive and active, and the term "haptic" is often associated with active touch to communicate or recognize objects.
+Haptic technology has made it possible to investigate how the human sense of touch works by allowing the creation of carefully controlled haptic virtual objects.
+The word haptic, from the Greek:  (haptikos), means "pertaining to the sense of touch" and comes from the Greek verb  haptesthai, meaning "to contact" or "to touch".
+
+
+== History ==
+One of the earliest applications of haptic technology was in large aircraft that use servomechanism systems to operate control surfaces. Such systems tend to be "one-way", meaning external forces applied aerodynamically to the control surfaces are not perceived at the controls. Here, the missing normal forces are simulated with springs and weights. In lighter aircraft without servo systems, as the aircraft approached a stall the aerodynamic buffeting (vibrations) was felt in the pilot's controls. This was a useful warning of a dangerous flight condition. This control shake is not felt when servo control systems are used. To replace this missing sensory cue, the angle of attack is measured and when it approaches the critical stall point, a stick shaker is engaged which simulates the response of a simpler control system. Alternatively, the servo force may be measured and the signal directed to a servo system on the control, known as force feedback. Force feedback has been implemented experimentally in some excavators and is useful when excavating mixed material such as large rocks embedded in silt or clay. It allows the operator to "feel" and work around unseen obstacles, enabling significant increases in productivity and less risk of damage to the machine.
+The first US patent for a tactile telephone was granted to Thomas D. Shannon in 1973. An early tactile man-machine communication system was constructed by A. Michael Noll at Bell Telephone Laboratories, Inc. in the early 1970s and a patent issued for his invention in 1975.
+
+In 1994, Aura Systems launched the Interactor Vest, a wearable force-feedback device that monitors an audio signal and uses Aura's patented electromagnetic actuator technology to convert bass sound waves into vibrations that can represent such actions as a punch or kick. The Interactor vest plugs into the audio output of a stereo, TV, or VCR and the user is provided with controls that allow for adjusting of the intensity of vibration and filtering out of high frequency sounds. The Interactor Vest is worn over the upper torso and the audio signal is reproduced through a speaker embedded in the vest. After selling 400,000 of its Interactor Vest, Aura began shipping the Interactor Cushion, a device which operates like the Vest but instead of being worn, it's placed against a seat back and the user must lean against it. Both the Vest and the Cushion were launched with a price tag of $99.
+
+In 1995 Norwegian Geir Jensen described a wrist watch haptic device with a skin tap mechanism, termed Tap-in. It would connect to a mobile phone via Bluetooth. Tapping-frequency patterns would identify callers to a mobile and enable the wearer to respond by selected short messages. It was submitted for a governmental innovation contest and received no award. It was not pursued or published until recovered in 2015. The Tap-in device by Jensen was devised facing the user to avoid twisting of the wrist, see image. It would adapt across all mobile phone and watch brands. In 2015 Apple started to sell a wrist watch which included skin tap sensing of notifications and alerts to mobile phone of the watch wearer.
+
+
+== Implementation ==
+
+
+=== Vibration ===
+The majority of electronics offering haptic feedback use vibrations, and most use a type of eccentric rotating mass (ERM) actuator, consisting of an unbalanced weight attached to a motor shaft. As the shaft rotates, the spinning of this irregular mass causes the actuator, and in turn, the attached device, to shake.
+Some newer devices, such as Apple's notebooks and iPhones featuring the "Taptic Engine", accomplish their vibrations with a linear resonant actuator (LRA), which moves a mass in a reciprocal manner by means of a magnetic voice coil, similar to how speaker technology translates DC electrical signals into motion of its speaker cone. LRAs are capable of quicker response times than ERMs, and thus are able to transmit more accurate haptic imagery.
+Piezoelectric actuators are also employed to produce vibrations, and offer even more precise motion with less noise and in a smaller platform, but require higher voltages than the ERM and LRA implementations, and may be more fragile.
+
+
+=== Force Feedback ===
+Some devices use motors to manipulate the movement of a peripheral held by the user. A common use is in automobile driving video games and simulators, which turn the steering wheel to simulate forces found when cornering a real vehicle.
+In 2007, Novint released the Falcon, the first consumer 3D touch device with high resolution three-dimensional force feedback; this allowed the haptic simulation of objects, textures, recoil, momentum, and the physical presence of objects in games.
+
+
+=== Non-contact haptic technology ===
+Non-contact, or mid-air, haptic technology utilizes the sense of touch without physical contact of a device. This type of feedback involves interactions with a system that are in a 3D space around the user. Thus, the user is able to perform actions on a system in the absence of holding a physical input device.
+
+
+==== Air vortex rings ====
+Air vortex rings are donut-shaped air pockets that are concentrated gusts of air. Focused air vortices can have the force to blow out a candle or disturb papers from a few yards away. Two specific companies have done research using air vortices as a source for non-contact haptic feedback.
+
+
+===== Disney research =====
+In 2013, Disney worked on a technology they called AIREAL. This system delivered non-contact haptic feedback through the use of air vortex rings. According to Disney, AIREAL helps users experience textures and "touch" virtual 3D objects in free space. This is all without the need for a glove or any other type of physical haptic feedback.
+Disney took on this research because they believed that technology is advancing towards more virtual or augmented reality applications. According to Disney, the missing piece in this emerging computer-augmented world is the absence of physical feeling of virtual objects. Disney's main intention for this research was to encourage other research regarding new applications of non-contact haptic feedback.
+
+
+===== Microsoft =====
+In 2013, Microsoft explored the same area as Disney. They used air vortex rings in order to try and provide haptic feedback for an at-a-distance interaction. Microsoft mostly focused on the study of vortex formation theory and parameters that will provide the most effective air vortex ring that will impart haptic feedback onto the user. Microsoft concluded that in order to get the best experience from the air vortex rings, the aperture size that produces the rings does not constrain the design. However, the L/D Ratio is the most useful measurement. The optimal L/D ratio for an air vortex ring generator is between 5 and 6.
+
+
+==== Ultrasound ====
+Ultrasound is a form of sound wave that has a high frequency. The most popular use of ultrasound is the visualization of a baby in the mother's womb. These sound waves are in general not harmful to the human body and can be focused easily. One company called Ultrahaptics has been working with this technology to provide non-contact haptic feedback.
+
+
+===== Ultrahaptics =====
+Founded in 2013, Ultrahaptics has focused on providing users haptic feedback in free space using ultrasound technology. They use multiple ultrasound speakers to make changes in the air pressure around the user. This provides the ability to feel the pockets of pressurized air focused in the environment. This gives the user tactile cues for gestures, invisible interfaces, textures, and virtual objects.
+The company is continuing to grow and launched their evaluation programme in 2014. This programme includes a device that rests on the table. The various ultrasound speakers are laid out in a grid, which can focus the ultrasound waves directly above it. This type of technology is currently intended for use with computer interfaces involving hand gestures.
+
+
+== Commercial applications ==
+
+
+=== Tactile electronic displays ===
+A tactile electronic display is a kind of display device that presents information in tactile form.
+
+
+=== Teleoperators and simulators ===
+Teleoperators are remote controlled robotic toolswhen contact forces are reproduced to the operator, it is called haptic teleoperation. The first electrically actuated teleoperators were built in the 1950s at the Argonne National Laboratory by Raymond Goertz to remotely handle radioactive substances. Since then, the use of force feedback has become more widespread in other kinds of teleoperators such as remote controlled underwater exploration devices.
+When such devices are simulated using a computer (as they are in operator training devices) it is useful to provide the force feedback that would be felt in actual operations. Since the objects being manipulated do not exist in a physical sense, the forces are generated using haptic (force generating) operator controls. Data representing touch sensations may be saved or played back using such haptic technologies. Haptic simulators are used in medical simulators and flight simulators for pilot training. It is very critical to exert proper force magnitude to the user. It requires considering human force sensitivity.
+
+
+=== Video games ===
+Haptic feedback is commonly used in arcade games, especially racing video games. In 1976, Sega's motorbike game Moto-Cross, also known as Fonz, was the first game to use haptic feedback which caused the handlebars to vibrate during a collision with another vehicle. Tatsumi's TX-1 introduced force feedback to car driving games in 1983. The game Earthshaker! was the first pinball machine with haptic feedback in 1989.
+Simple haptic devices are common in the form of game controllers, joysticks, and steering wheels. Early implementations were provided through optional components, such as the Nintendo 64 controller's Rumble Pak in 1997. In the same year, the Microsoft SideWinder Force Feedback Pro with built in feedback from Immersion Corporation was released. Many newer generation console controllers and joysticks feature built in feedback devices too, including Sony's DualShock technology and Microsoft's Impulse Trigger technology. Some automobile steering wheel controllers, for example, are programmed to provide a "feel" of the road. As the user makes a turn or accelerates, the steering wheel responds by resisting turns or slipping out of control.
+In 2013, Valve announced a line of Steam Machines microconsoles, including a new Steam Controller unit that uses weighted electromagnets capable of delivering a wide range of haptic feedback via the unit's trackpads. These controllers' feedback systems are open to the user, which allows the user to configure the feedback to occur in nearly limitless ways and situations. Also, due to the community orientation of the controller, the possibilities to have games interact with the controller's feedback system are only limited to the game's design.
+In 2014, the researchers in LG Electronics, led by Youngjun Cho, showed a new technique to automatically generate haptic effects on a haptic cushion in interacting with multimedia contents at ACTUATOR 2014 in Bremen, Germany.
+In 2017, the Nintendo Switch's Joy-Con introduced the HD Rumble feature. It has a high level of precision, allowing it to simulate the feel of holding, moving and using objects. 1-2-Switch has a number of minigames demonstrating this feature.
+
+
+=== Personal computers ===
+In 2008, Apple's MacBook and MacBook Pro started incorporating a "Tactile Touchpad" design with button functionality and haptic feedback incorporated into the tracking surface. Products such as the Synaptics ClickPad followed thereafter.
+In 2015, Apple introduced "Force Touch" trackpads onto the 2015 MacBook Pro which simulates clicks with a "Taptic Engine" (which provides haptic feedback).
+
+
+=== Mobile devices ===
+
+Tactile haptic feedback is common in cellular devices. Handset manufacturers such Nokia, LG and Motorola have included different types of haptic technologies in their devices; in most cases, this takes the form of vibration response to touch. Alpine Electronics uses a haptic feedback technology named PulseTouch on many of their touch-screen car navigation and stereo units. The Nexus One features haptic feedback, according to their specifications. Samsung first launched a phone with haptics in 2007.
+Surface haptics refers to the production of variable forces on a user's finger as it interacts with a surface, such as a touchscreen. Tanvas uses an electrostatic technology to control the in-plane forces experienced by a fingertip, as a programmable function of the finger's motion. The TPaD Tablet Project uses an ultrasonic technology to modulate the slipperiness of a glass touchscreen, as if a user's finger is floating on a cushion of air.
+In February 2013, Apple Inc. was awarded the patent for a more accurate haptic feedback system that is suitable for multitouch surfaces. Apple's U.S. Patent for a "Method and apparatus for localization of haptic feedback" describes a system where at least two actuators are positioned beneath a multitouch input device to provide vibratory feedback when a user makes contact with the unit. More specifically, the patent provides for one actuator to induce a feedback vibration, while at least one other actuator creates a second vibration to suppress the first from propagating to unwanted regions of the device, thereby "localizing" the haptic experience. While the patent gives the example of a "virtual keyboard", the language specifically notes the invention can be applied to any multitouch interface.
+
+
+=== Virtual reality ===
+Haptics are gaining widespread acceptance as a key part of virtual reality systems, adding the sense of touch to previously visual-only interfaces. Most of these use stylus-based haptic rendering, where the user interfaces to the virtual world via a tool or stylus, giving a form of interaction that is computationally realistic on today's hardware. Systems are being developed to use haptic interfaces for 3D modeling and design that are intended to give artists a virtual experience of real interactive modeling. Researchers from the University of Tokyo have developed 3D holograms that can be "touched" through haptic feedback using "acoustic radiation" to create a pressure sensation on a user's hands (see future section). The researchers, led by Hiroyuki Shinoda, had the technology on display at SIGGRAPH 2009 in New Orleans. Several companies are making full-body or torso haptic vests or haptic suits for use in immersive virtual reality so that explosions and bullet impacts can be felt.
+
+
+== Research ==
+Research has been done to simulate different kinds of taction by means of high-speed vibrations or other stimuli. One device of this type uses a pad array of pins, where the pins vibrate to simulate a surface being touched. While this does not have a realistic feel, it does provide useful feedback, allowing discrimination between various shapes, textures, and resiliencies. Several haptics APIs have been developed for research applications, such as Chai3D, OpenHaptics, and the Open Source H3DAPI.
+
+
+=== Medicine ===
+Haptic interfaces for medical simulation may prove especially useful for training in minimally invasive procedures such as laparoscopy and interventional radiology, as well as for performing remote surgery. A particular advantage of this type of work is that surgeons can perform more operations of a similar type with less fatigue.
+
+Tactile Imaging, as a medical imaging modality, translates the sense of touch into a digital image. The tactile image is a function of P(x,y,z), where P is the pressure on soft tissue surface under applied deformation and x,y,z are coordinates where pressure P was measured. Tactile imaging closely mimics manual palpation, since the probe of the device with a pressure sensor array mounted on its face acts similar to human fingers during clinical examination, deforming soft tissue by the probe and detecting resulting changes in the pressure pattern. Clinical applications include imaging of the prostate, breast, elasticity assessment of vagina and pelvic floor support structures, muscle functional imaging of the female pelvic floor and myofascial trigger points in muscle.
+Mechanical imaging, as a modality of medical diagnostics using mechanical sensors, was introduced in mid 1990s.
+A Virtual Haptic Back (VHB) was successfully integrated in the curriculum at the Ohio University College of Osteopathic Medicine.
+
+
+=== Robotics ===
+The Shadow Hand uses the sense of touch, pressure, and position to reproduce the strength, delicacy, and complexity of the human grip. The SDRH was developed by Richard Greenhill and his team of engineers in London as part of The Shadow Project, now known as the Shadow Robot Company, an ongoing research and development program whose goal is to complete the first convincing artificial humanoid. An early prototype can be seen in NASA's collection of humanoid robots, or robonauts. The Shadow Hand has haptic sensors embedded in every joint and finger pad, which relay information to a central computer for processing and analysis. Carnegie Mellon University in Pennsylvania and Bielefeld University in Germany found The Shadow Hand to be an invaluable tool in advancing the understanding of haptic awareness, and in 2006 they were involved in related research. The first PHANTOM, which allows one to interact with objects in virtual reality through touch, was developed by Thomas Massie while a student of Ken Salisbury at MIT.
+
+
+=== Arts, design and handwriting ===
+Touching is not limited to feeling, but allows interactivity in real-time with virtual objects. Thus, haptics are used in virtual arts, such as sound synthesis or graphic design and animation. The haptic device allows the artist to have direct contact with a virtual instrument that produces real-time sound or images. For instance, the simulation of a violin string produces real-time vibrations of this string under the pressure and expressiveness of the bow (haptic device) held by the artist. This can be done with physical modeling synthesis.
+Designers and modellers may use high-degree-of-freedom input devices that give touch feedback relating to the "surface" they are sculpting or creating, allowing faster and more natural workflow than traditional methods.
+Artists working with haptic technology such as vibrotactile effectors are Christa Sommerer, Laurent Mignonneau, and Stahl Stenslie.
+Digital drawing or handwriting tasks can be enhanced and produce better outputs with a more realistic feedback which is designed to enable artists or writers to feel as if they are drawing or writing with a traditional writing/drawing tool (marker pen, ballpoint pen, etc.). The first method to realise this was proposed in RealPen Project.
+
+
+== Future applications ==
+Future applications of haptic technology cover a wide spectrum of human interaction with technology. Current (from 2013) research focuses on the mastery of tactile interaction with holograms and distant objects, which if successful may result in applications and advancements in gaming, movies, manufacturing, medical, and other industries. The medical industry stands to gain from virtual and telepresence surgeries, which provide new options for medical care. The clothing retail industry could gain from haptic technology by allowing users to "feel" the texture of clothes for sale on the internet. Future advancements in haptic technology may create new industries that were previously neither feasible nor realistic.
+
+
+=== Holographic interaction ===
+Researchers at the University of Tokyo are working on adding haptic feedback to holographic projections. The feedback allows the user to interact with a hologram and receive tactile responses as if the holographic object were real. The research uses ultrasound waves to create acoustic radiation pressure, which provides tactile feedback as users interact with the holographic object. The haptic technology does not affect the hologram, or the interaction with it, only the tactile response that the user perceives. The researchers posted a video displaying what they call the Airborne Ultrasound Tactile Display. As of 2008, the technology was not ready for mass production or mainstream application in industry, but was quickly progressing, and industrial companies showed a positive response to the technology. This example of possible future application is the first in which the user does not have to be outfitted with a special glove or use a special controlthey can "just walk up and use [it]".
+
+
+=== Future medical applications ===
+One currently developing (from 2014) medical innovation is a central workstation used by surgeons to perform operations remotely. Local nursing staff set up the machine and prepare the patient, and rather than travel to an operating room, the surgeon becomes a telepresence. This allows expert surgeons to operate from across the country, increasing availability of expert medical care. Haptic technology provides tactile and resistance feedback to surgeons as they operate the robotic device. As the surgeon makes an incision, they feel ligaments as if working directly on the patient.
+As of 2003, researchers at Stanford University were developing technology to simulate surgery for training purposes. Simulated operations allow surgeons and surgical students to practice and train more. Haptic technology aids in the simulation by creating a realistic environment of touch. Much like telepresence surgery, surgeons feel simulated ligaments, or the pressure of a virtual incision as if it were real. The researchers, led by J. Kenneth Salisbury Jr., professor of computer science and surgery, hope to be able to create realistic internal organs for the simulated surgeries, but Salisbury stated that the task will be difficult. The idea behind the research is that "just as commercial pilots train in flight simulators before they're unleashed on real passengers, surgeons will be able to practice their first incisions without actually cutting anyone".
+According to a Boston University paper published in The Lancet, "Noise-based devices, such as randomly vibrating insoles, could also ameliorate age-related impairments in balance control." If effective, affordable haptic insoles were available, perhaps many injuries from falls in old age or due to illness-related balance-impairment could be avoided.
+In February 2013, an inventor in the United States built a "spider-sense" bodysuit, equipped with ultrasonic sensors and haptic feedback systems, which alerts the wearer of incoming threats; allowing them to respond to attackers even when blindfolded.
+
+During a laparoscopic surgery the video camera becomes a surgeon's eyes, since the surgeon uses the image from the video camera positioned inside the patient's body to perform the procedure. Visual feedback is either similar or often superior to open procedures. The greatest limitation to these minimally invasive approaches is the impairment (in the case of traditional laparoscopy) or complete lack of tactile sensation (in the case of robotic laparoscopy) normally used to assist in surgical dissection and decision making. Despite multiple attempts, no tactile imaging device or probe is currently commercially available for laparoscopic surgery. Figure on the right presents one of the proposed devices, which is in the development phase.
+
+
+== See also ==
+Elastography
+List of PC games with force feedback support
+Organic user interface
+Tactile imaging
+Wired glove
+Stylus (computing)
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Haptic technology at HowStuffWorks
+Levitating joystick improves computer feedback
+What is Force Feedback? (on telerobotic manipulators) - Kraft TeleRobotics
+Video of Novint Falcon demo at CES 2007.
+CHAI3D - Open source haptic simulation framework (Stanford University)
+H3DAPI - Open source haptics API; developed by SenseGraphics
+BioRobotics Laboratory, Research on Haptics and Teleoperation
+An animation explaining how haptic force-feedback technology works
+IEEE Technical Committee on Haptics
+Special Interest Group on Haptics (Haptics SIG)
+Haptics-L: the electronic mailing list for the international Haptics community
+How Haptic coming out of research laboratories and into real products

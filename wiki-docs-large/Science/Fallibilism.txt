@@ -1,0 +1,52 @@
+Broadly speaking, fallibilism (from Medieval Latin: fallibilis, "liable to err") is the philosophical claim that no belief can have justification which guarantees the truth of the belief. However, not all fallibilists believe that fallibilism extends to all domains of knowledge.
+
+
+== Usage ==
+The term "fallibilism" is used in a variety of senses in contemporary epistemology. The term was coined in the late nineteenth century by the American philosopher Charles Sanders Peirce. By "fallibilism", Peirce meant the view that "people cannot attain absolute certainty concerning questions of fact." Other theorists of knowledge have used the term differently. Thus, "fallibilism" has been used to describe the claim that:
+No beliefs can be conclusively justified.
+Knowledge does not require certainty.
+Almost no basic (that is, non-inferred) beliefs are certain or conclusively justified.
+Additionally, some theorists embrace global versions of fallibilism (claiming that no human beliefs have truth-guaranteeing justification), while others restrict fallibilism to particular areas of human inquiry, such as empirical science or morality. The claim that all scientific claims are provisional and open to revision in the light of new evidence is widely taken for granted in the natural sciences.
+Unlike many forms of skepticism, fallibilism does not imply that we have no knowledge; fallibilists typically deny that knowledge requires absolute certainty. Rather, fallibilism is an admission that, because empirical knowledge can be revised by further observation, any of the things we take as empirical knowledge might turn out to be false.
+Some fallibilists make an exception for things that are necessarily true (such as mathematical and logical truths). Others remain fallibilists about these types of truths as well. Susan Haack, following Willard Van Orman Quine, has argued that to refrain from extending fallibilism to logical truthsdue to the necessity or a prioricity of such truthsmistakes "fallibilism" as a predicate on propositions, when it is a predicate on people or agents:
+
+One needs, first, to get clear just what is meant by the claim that logic is revisable - and, equally importantly, what is not meant by it. What I mean, at any rate, is not that the truths of logic might have been otherwise than they are, but that the truths of logic might be other than we take them to be, i.e. we could be mistaken about what the truths of logic are, e.g. in supposing that the law of excluded middle is one such.
+So a better way to put the question, because it makes its epistemological character clearer, is this: does fallibilism extend to logic? Even this formulation, however, needs further refinement, for the nature of fallibilism is often misunderstood.
+
+The critical rationalist Hans Albert argues that it is impossible to prove any truth with certainty, even in logic and mathematics. This argument is called the Mnchhausen trilemma.
+
+
+== Proponents ==
+Historically, fallibilism is most strongly associated with Charles Sanders Peirce, John Dewey, and other pragmatists, who use it in their attacks on foundationalism (the view that any system of rationally justified beliefs must rest on a set of properly basic beliefsthat is, beliefs that are accepted, and rightly accepted, directly, without any evidence or rational support whatsoever). However, fallibilist themes are already present in the views of both ancient Greek skeptics, such as Carneades, and modern skeptics, such as David Hume. Most versions of ancient and modern skepticism, excepting Pyrrhonism, depend on claims (e.g., that knowledge requires certainty, or that people cannot know that skeptical hypotheses are false) that fallibilists deny.
+Another proponent of fallibilism is Karl Popper, who builds his theory of knowledge, critical rationalism, on falsifiability. Fallibilism has been employed by Quine to attack, among other things, the distinction between analytic and synthetic statements.
+
+
+== Moral fallibilism ==
+Moral fallibilism is a specific subset of the broader epistemological fallibilism outlined above. In the debate between moral subjectivism and moral objectivism, moral fallibilism holds out a third plausible stance: that objectively true moral standards may exist, but they cannot be reliably or conclusively determined by humans. This avoids the problems associated with the relativism of subjectivism by retaining the idea that morality is not a matter of mere opinion, while offering an account for the conflict between differing objective moralities. Notable proponents of such views are Isaiah Berlin (value pluralism) and Bernard Williams (perspectivism).
+
+
+== Criticism ==
+Nearly all philosophers today are fallibilists in some sense of the term. Few would claim that knowledge requires absolute certainty, or deny that scientific claims are revisable. But many philosophers would challenge "global" forms of fallibilism, such as the claim that no beliefs are conclusively justified. Historically, many Western philosophers from Plato to Augustine to Ren Descartes have argued that some human beliefs are infallibly known. Plausible candidates for infallible beliefs include beliefs about logical truths ("Either Jones is a Democrat or Jones is not a Democrat"), beliefs about immediate appearances ("It seems that I see a patch of blue"), and incorrigible beliefs (i.e., beliefs that are true in virtue of being believed, such as Descartes' "I think, therefore I am"). Many others, however, have taken even these types of beliefs to be fallible.
+
+
+== See also ==
+Infallibility
+Logical holism
+Perspectivism
+Probabilism
+Problem of induction
+Underdetermination
+Pancritical rationalism
+Philosophical skepticism
+
+
+== References ==
+
+
+== Further reading ==
+Charles S. Peirce: Selected Writings, ed. by Philip P. Wiener (Dover, 1980)
+Charles S. Peirce and the Philosophy of Science, ed. by Edward C. Moore (Alabama, 1993)
+Traktat ber kritische Vernunft, Hans Albert (Tbingen: Mohr, 1968. 5th ed. 1991)
+Richard Feldman, Epistemology. Upper Saddle River, NJ: Prentice-Hall, 2003, Chap. 6.
+Susan Haack, Philosophy of Logics. Cambridge University Press, 1978, Chap. 12.
+"Fallibilism". Internet Encyclopedia of Philosophy.

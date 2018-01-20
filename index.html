@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document Similarity</title>
+
+  <style>
+
+    body {
+      font: 10px sans-serif;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .dot {
+      stroke: #000;
+      stroke-opacity: .2;
+      fill-opacity: 1;
+    }
+
+    #controls {
+      font-size: 14px;
+      position: absolute;
+      top: 120px;
+      left: 810px;
+    }
+
+    input {
+      margin: 4px 4px 0;
+    }
+
+    .document-graph {
+      border: 1px solid black;
+    }
+
+    .tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 5px;
+      background: lightsteelblue;
+      border: 0px;
+      border-radius: 8px;
+      pointer-events: none;
+    }
+
+  </style>
+
+</head>
+<body>
+
+<script src="d3.v3.min.js"></script>
+  <script>
+
+    var margin = {top: 20, right: 20, bottom: 20, left: 20},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom,
+      padding = 1.5, // separation between nodes
+      minRadius = 5;
+
+    var x = d3.scale.linear()
+      .range([0, width]);
+
+    var y = d3.scale.linear()
+      .range([height, 0]);
+
+    var color = d3.scale.category10();
+
+    var tooltip = d3.select("body").append("div") 
+        .attr("class", "tooltip")       
+        .style("opacity", 0);
+
+    var svg = d3.select("body").append("svg")
+      //.attr("width", width + margin.left + margin.right)
+      //.attr("width", "calc(100%)")
+      //.attr("height", height + margin.top + margin.bottom)
+      .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+      .attr("preserveAspectRatio", "xMidYMid meet")
+      .attr("class", "document-graph")
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    d3.json("docs.json", function(data) {
+      var xVar = "origX",
+        yVar = "origY";
+
+      data.forEach(function(d) {
+        d[xVar] = d.x;
+        d[yVar] = d.y;
+        delete d.x;
+        delete d.y;
+      });
+
+      var force = d3.layout.force()
+        .nodes(data)
+        .size([width, height])
+        .on("tick", tick)
+        .charge(-1)
+        .gravity(0)
+        .chargeDistance(2);
+
+      x.domain(d3.extent(data, function(d) { return d[xVar]; }));
+      y.domain(d3.extent(data, function(d) { return d[yVar]; }));
+
+      // Set initial positions
+      data.forEach(function(d) {
+        d.x = x(d[xVar]);
+        d.y = y(d[yVar]);
+        let relOpacity = Math.max(1 - d.distanceFromCenter, 0.2);
+        let alphaHex = Math.round((relOpacity * 256) - 1).toString(16);
+        alphaHex.length === 1 && (alphaHex = '0' + alphaHex)
+        d.color = color(d.cluster) + alphaHex;
+        d.radius = getRadius(d);
+      });
+
+      var node = svg.selectAll(".dot")
+        .data(data)
+        .enter().append("circle")
+        .attr("class", "dot")
+        .attr("r", function(d) { return getRadius(d); })
+        .attr("cx", function(d) { return x(d[xVar]); })
+        .attr("cy", function(d) { return y(d[yVar]); })
+        .style("fill", function(d) { return d.color; })
+        .on("mouseover", function(d) {    
+            tooltip.transition()    
+                .duration(200)
+                .style("opacity", .9);  
+            tooltip.html(d.name)  
+                .style("left", (d3.event.pageX) + "px")   
+                .style("top", (d3.event.pageY - 28) + "px");  
+            })          
+        .on("mouseout", function(d) {   
+            tooltip.transition()    
+                .duration(500)    
+                .style("opacity", 0); 
+        });
+
+
+      // Add labels to each node
+      // svg.selectAll(".dot")
+      //   .data(data)
+      //  .enter().append("text")
+      //   .attr("class", "dot-label")
+      //   .attr("x", function(d) { return x(d[xVar]); })
+      //   .attr("y", function(d) { return y(d[yVar]); })
+      //   .attr("dx", "-2em")
+      //   .attr("dy", "-.8em")
+      //   .text(function(d) { return d.name;});
+
+      force.start();
+
+      function tick(e) {
+        node.each(moveTowardDataPosition(e.alpha));
+
+        node.each(collide(e.alpha));
+
+        node.attr("cx", function(d) { return d.x; })
+          .attr("cy", function(d) { return d.y; });
+      }
+
+      function moveTowardDataPosition(alpha) {
+        return function(d) {
+          d.x += (x(d[xVar]) - d.x) * 0.1 * alpha;
+          d.y += (y(d[yVar]) - d.y) * 0.1 * alpha;
+        };
+      }
+
+      // Resolve collisions between nodes.
+      function collide(alpha) {
+        var quadtree = d3.geom.quadtree(data);
+        return function(d) {
+          var r = d.radius + getRadius(d) + padding,
+            nx1 = d.x - r,
+            nx2 = d.x + r,
+            ny1 = d.y - r,
+            ny2 = d.y + r;
+          quadtree.visit(function(quad, x1, y1, x2, y2) {
+            if (quad.point && (quad.point !== d)) {
+              var x = d.x - quad.point.x,
+                y = d.y - quad.point.y,
+                l = Math.sqrt(x * x + y * y),
+                r = d.radius + quad.point.radius + (d.color !== quad.point.color) * padding;
+              if (l < r) {
+                l = (l - r) / l * alpha;
+                d.x -= x *= l;
+                d.y -= y *= l;
+                quad.point.x += x;
+                quad.point.y += y;
+              }
+            }
+            return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+          });
+        };
+      }
+
+      function getRadius(d) {
+        return minRadius + minRadius*d.size;
+      }
+
+    });
+
+  </script>
+
+</body>
+</html>
